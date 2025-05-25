@@ -1,0 +1,3 @@
+  * tracking my UX
+    * [[2023-11-26]]
+      * put cash/fiat on CB using Checking account (not debit card, i literally signed into bank). Then, i bought ETH with it. Then, i literally couldnt send to decentralized wallet. My guess is because you have to wait for like 3-5 days for bank settling times or whatever. This is called ACH deposits i think. They take time - stupid traditional garbage systems. HOWEVER, i think you can avoid this by doing wire transfers maybe? Uncertain if you can now do these wire transfers completely online instead of needing to call like in past - not sure. EDIT: all this is correct and wire transfers still have to be called in.

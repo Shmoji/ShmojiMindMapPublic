@@ -1,0 +1,2 @@
+  * key points
+    * if git clone is stuck, you can check if it's actually loading data by going to the folder being downloaded and check to see if file size is increasing. For git, check the .git folder size. Exit folder and then recheck.

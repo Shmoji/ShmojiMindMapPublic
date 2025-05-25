@@ -1,0 +1,2 @@
+  * set a goal to serve God rather than whatever task at hand is
+  * it's weird though because you dont have to actually put attention onto focusing on this divine goal. Because then that will get in the way of whatever task you're doing at time. It's more abstract and i dont totally get it yet. Maybe it's just having "serving God" as your primary goal at all times and when you notice that goal gets deranked, then set it back to number 1

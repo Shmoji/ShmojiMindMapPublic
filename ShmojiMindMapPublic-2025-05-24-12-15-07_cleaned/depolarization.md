@@ -1,0 +1,4 @@
+  * what is it?
+    * Once threshhold hits, sodium VG ion channel opens and sodium ions flood into cell bc of electrochemical gradient. As positive sodium ions enter cell, the membrane potential becomes less negative and more positive as it approaches 0mV
+    * In biology, depolarization is a change within a cell, during which the cell undergoes a shift in electric charge distribution, resulting in less negative charge inside the cell. Depolarization is essential to the function of many cells, communication between cells, and the overall physiology of an organism
+  * [[search map]]: #[[action potential]]

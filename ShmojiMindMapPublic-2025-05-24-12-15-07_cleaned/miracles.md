@@ -1,0 +1,8 @@
+  * what is a miracle?
+    * they originate from this algo:
+      * For [[multipolar trap]] to be successful, domesticated minds/cult that are authoring/seeding a narrative must hide behind veil of secrecy to create impression that their weaponized facts in their narrative are dictated by nature (instead of reality where domesticated minds equal in authority to everyone else that clearly have fear-based incentives to mislead their brothers and sisters)
+      * If they are not successful in hiding authorship, the trap backfires because instead of inducing fear and division in the liminal collective, it induces compassion and unity. Brothers and sisters see that only reason they could ever act this way is because they forgot their true nature - thinking they somehow need to manipulate reality in order to be safe
+      * This understanding will naturally induce love and compassion in the liminal collective targeted since they see what the author's actions imply about the health of their minds. So they forgive them for they know not what they do. 
+      * This involves liminal minds working together to prevent domesticated brothers and sisters from digging deeper into illusory hole - to then heal their minds with uncondional love and acceptance - reminding them of their true nature
+      * this phenomenon is best known as a miracle because it constitutes a trans-rational force that restores balance by transcending purely rational game theoretic analysis
+      * it thus heals the wound that is moloch. Not by fearing and fighting him, but by meeting him with love and forgiveness - undoing the error and perception that gave rise to him in first place

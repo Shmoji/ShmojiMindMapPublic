@@ -1,0 +1,2 @@
+  * Cannot use blueprint scripting (event graph) or C++, just Verse languages
+  * FAB - universal app store. For Godot, Unity, Unreal, everyone by Epic. Coming from web3 space, already have with NFTs, but significant bc from Epic.

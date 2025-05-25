@@ -1,0 +1,4 @@
+  * TODO now
+    * [ ] how would i: automate the dialogue generation from Emily in response to what her chat is talking about
+    * [ ] go over Toms discord msg and write down all his issues he wants solved
+    * [ ] how would i solve: Right now not every twitch chat message is worth responding to. Some should get responded to in bulk, like many users saying LOL or wtf or using similar emojis.  Need to filter out the messages that are actually questions or comments that Emily should respond to. Eventually if the stream is popular enough there will be too many comments & questions to respond to all of them, so will need to filter this list by highest priority to respond to likely by quality of message, likelihood to create entertaining response, prioritize subs, followers and longest subbed people, but at the same time acknowledge new users and keep them engaged.

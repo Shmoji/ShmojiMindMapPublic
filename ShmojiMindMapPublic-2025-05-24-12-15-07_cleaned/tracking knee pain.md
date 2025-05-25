@@ -1,0 +1,2 @@
+  * [[2023-08-03]]
+    * had knee pain right after dinner. Didnt have it all day. It lasted about 10-30 minutes. 4/10 intensity. Was meditating and there was basically 0 ways to have legs that didnt hurt knees. I ate teriyaki chicken and steak (has soy sauce).

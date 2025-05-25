@@ -1,0 +1,2 @@
+  * how to set cookie on your backend
+    * MY LEARNING 1: if your backend domain and frontend domain are different, you just cant set your cookies on backend it seems. i was stuck on this foreverrr and solution was making backend endpoint a subdomain of frontend endpoint ^ZRyp8wPA9

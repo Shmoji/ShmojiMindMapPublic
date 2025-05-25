@@ -1,0 +1,1 @@
+  * SyncIMPosts that runs on Azure is what updates marketInterest and compositeRating every 5 minutes. Otherwise, without this webjob, someone could stake on themself and then the values for marketInterest wouldn't change on posts

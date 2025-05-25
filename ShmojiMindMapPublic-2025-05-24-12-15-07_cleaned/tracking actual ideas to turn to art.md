@@ -1,0 +1,2 @@
+  * list
+    * from dream: beach. waves crashing and ending at certain point (like ones you jump over). actually scary hike to top of mountain to even get to this beach (and somehow beach at top). at endpoint of wavecrash there is a very hidden hole. person falls through and just catches themself. insanly huge drop to below. water probbb would catch, but just outside that pool of water is a hippo...are they dangerous?

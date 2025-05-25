@@ -1,0 +1,2 @@
+  * what is it?
+    * Classical Utilitarianism asserts that utility denotes "happiness" or "Wellbeing". A more precise version of this is Valence Utilitarianism, which states that utility equals [[valence]].

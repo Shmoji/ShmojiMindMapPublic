@@ -1,0 +1,3 @@
+  * what is it?
+    * A simulacrum is a copy without an original, meaning it imitates something that never really existed in the first place or distorts the reality it's supposed to represent.
+    * It's not just a copy or replica; it's a depiction that takes on a life of its own and becomes a new reality. For example, a character in a novel might be a simulacrum of a real person, but it takes on its own identity separate from the real person.

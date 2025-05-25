@@ -1,0 +1,1 @@
+  * note: this is list of precise ways to help specific people. I prefer it to be precise things, but it may turn into more abstract things

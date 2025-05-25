@@ -1,0 +1,1 @@
+  * [[open sourcing my mind map]]

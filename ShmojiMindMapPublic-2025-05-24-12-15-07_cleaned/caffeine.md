@@ -1,0 +1,2 @@
+  * how it works
+    * Dr K: doesn't boost energy. It makes you feel more energized tho. does so by blocking adenosine receptors. Adenosine is waste product of ATP. You're not improving energy, you're blocking fatigue signals. 

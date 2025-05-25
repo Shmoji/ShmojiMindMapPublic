@@ -1,0 +1,1 @@
+  * Pico 2 support ended by Pico themself. So Pico SDK will not work for Pico 2

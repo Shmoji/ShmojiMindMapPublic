@@ -1,0 +1,1 @@
+  * [ ] Cook basic cut up chicken with butter, but dont turn heat past 4.5 - i want to see how long butter can stay in liquid form before turning into caramel-like form.  Time it too

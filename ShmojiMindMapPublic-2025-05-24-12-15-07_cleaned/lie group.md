@@ -1,0 +1,31 @@
+  * what is it?
+    * [[groups in math|group]] that is also a [[differentiable manifold]]
+    * Lie groups are smooth differentiable manifolds and as such can be studied using differential calculus, in contrast with the case of more general [[topological groups]] (which sometimes can use calc, but sometimes cant - they be v general)
+  * question
+    * what is difference in mathematical group and differentiable manifold? why do they need a bridge to connect them?
+      * ME: 2 different mathematical object. Not every single group and every single diff manifold is compatible to be a Lie group, but sometimes they are compatible - which can be valuable to find out even more info bc functions on one math object can be done on other math object and it's valid
+      * ai
+        * The Bridge: Lie Groups
+Lie groups are mathematical objects that combine the algebraic structure of a group with the smooth structure of a differentiable manifold. In other words, a Lie group is both a group and a differentiable manifold, and the group operations are compatible with the smooth structure. This means that the group's multiplication and inversion operations are smooth, and there exist smooth maps from the group to itself.
+        * Lie groups provide a powerful way to study symmetries and continuous transformations on differentiable manifolds. They have extensive applications in physics, especially in the study of symmetries in particle physics and fields like quantum mechanics.
+        * In summary, the bridge between mathematical groups and differentiable manifolds is formed by the concept of Lie groups, which unifies the algebraic structure of groups with the geometric and smooth structure of differentiable manifolds. This bridge allows mathematicians and physicists to study symmetries and transformations in a more unified and elegant manner.
+    * if you combine any group and any differentiable manifold will it always be a Lie group or no?
+      * ai
+        * No, not every combination of a group and a differentiable manifold will result in a Lie group. To be a Lie group, the group's algebraic structure and the manifold's smooth structure must be compatible in a specific way. There are certain conditions that need to be satisfied to form a Lie group, and not all combinations of groups and differentiable manifolds fulfill these requirements.
+        * To form a Lie group, the following conditions must be met:
+          * Smooth Group Operations: The group operations (multiplication and inversion) must be smooth maps with respect to the smooth structure of the differentiable manifold. In other words, if you consider the product of two elements or the inversion of an element in the group, these operations should produce smooth functions on the manifold.
+          * Smooth Group Action: The group must act smoothly on itself. This means that the left and right multiplication maps (left and right translations) in the group must be smooth maps with respect to the smooth structure of the manifold.
+          * Compatibility of Group Structure and Manifold Structure: The group structure and the manifold structure must be compatible with each other. This compatibility is usually expressed by certain conditions on the transition functions between different charts on the manifold.
+        * If any of these conditions is not satisfied, the combination of the group and the differentiable manifold will not give rise to a Lie group.
+        * For example, take a group with a discrete topology (a group with the discrete topology has open singletons as its only open sets). In this case, the group does not have a compatible smooth structure with the differentiable manifold, and thus it will not form a Lie group.
+        * In summary, not every combination of a group and a differentiable manifold will be a Lie group. For a Lie group to be formed, specific compatibility conditions between the group structure and the smooth structure of the manifold must be satisfied.
+    * what is significant about lie groups?
+      * ME: they a bridge between many BROAD math objects which can apply to many very real world scenarios
+      * ai
+        * In summary, Lie groups are significant because they provide a powerful tool to connect and understand different areas of mathematics and physics, especially those involving symmetry and transformation.
+        * Lie groups are significant for several reasons, especially in the fields of mathematics and physics. Here's a simple explanation:
+          * Unifying Structure: Lie groups provide a unifying structure to understand and describe different types of symmetries. Symmetry is a fundamental concept in both mathematics and physics. For instance, the symmetry of a square, the rotational symmetry of a circle, or the time and space symmetries in physics can all be described using Lie groups.
+          * Link Between Algebra and Geometry: Lie groups are objects that have both a geometric structure (they are smooth manifolds) and an algebraic structure (they are groups). This duality allows for a deep connection between algebra and geometry, two fundamental branches of mathematics.
+          * Quantum Physics: In quantum physics, Lie groups and their associated Lie algebras are used to describe the symmetries of quantum systems. For example, the behavior of elementary particles (like electrons, quarks, etc.) can be described using certain Lie groups.
+          * Differential Equations: Lie groups also play a crucial role in the study of differential equations, which are fundamental in describing natural phenomena. They provide methods to solve these equations and understand their properties.
+          * Representation Theory: Lie groups are central in representation theory, a branch of mathematics that studies abstract algebraic structures by representing their elements as linear transformations of vector spaces. This has applications in many areas, including quantum mechanics, number theory, and more.

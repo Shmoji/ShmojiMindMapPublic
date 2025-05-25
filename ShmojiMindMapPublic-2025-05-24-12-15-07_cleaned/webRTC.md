@@ -1,0 +1,2 @@
+  * what is it?
+    * web real-time-communication - also a tool for real-time experiences like [[websockets]], but it's focused on browser to browser - primarily for video and voice. For video app like zoom you prob want webRTC and not websockets

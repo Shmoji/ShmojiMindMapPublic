@@ -1,0 +1,8 @@
+  * what it do?
+    * Stereotype is that serotonin is happy molecule and low serotonin means depression, but there is no proof of it.
+    * **Bowel function**: Most of the body’s serotonin is found in the GI tract, where it regulates bowel function and movements. It also plays a part in reducing the appetite while eating.
+    * **Mood**: In the brain, serotonin impacts levels of mood, [anxiety](https://www.medicalnewstoday.com/info/anxiety/), and happiness. Illicit mood-altering drugs such as Ecstasy and LSD cause a significant rise in serotonin levels. These are all not facts, but maybes
+    * **Clotting**: Serotonin contributes to the formation of blood clots.
+    * **Nausea**: If you eat something that is toxic or irritating, the gut produces more serotonin to increase transit time and expel the irritant in [diarrhea](https://www.medicalnewstoday.com/articles/158634.php). This also stimulates the nausea area in the brain, resulting in nausea.
+    * **Bone density**: Some scientists [have linked](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3727814/) high levels of serotonin in the bones to an increase in [osteoporosis](https://www.medicalnewstoday.com/articles/155646.php), but others have challenged these results.
+    * **Sexual function**: Serotonin [appears to inhibit](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108697/) sexual activity. Selective serotonin reuptake inhibitors (SSRIs) boost serotonin levels in people with depression, but between 20 and 70 percent of people who take them experience a range of symptoms related to sexual dysfunction.

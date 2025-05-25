@@ -1,0 +1,3 @@
+  * what is it?
+    * Poetry is a python dependency management tool to manage dependencies, packages, and libraries in your python project.
+    * Poetry manages the virtual environment and dependency resolution for your project, making it compatible with existing Pip or Conda projects. It simplifies the management of dependencies and allows for consistent package installations across different environments.

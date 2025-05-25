@@ -1,0 +1,3 @@
+  * tracking learning general stuff about metabolism
+    * [[2024-10-01]] Q: does aerobic respiration create ATP for that cell where it happens or for processes outside the cell or both? what about anerobic respiration? #[[fast memo]]
+      * LOCAL FIRST ENERGY USAGE: both aerobic and anaerobic respiration generate ATP for the immediate use of the cell in which they occur. However, cells can indirectly support other processes outside themselves, but the ATP generated stays within the cell itself for THAT CELL's processes. Then, the processes from inside that cell can indirectly affect other cells (both physical and chemical in various ways indirectly)

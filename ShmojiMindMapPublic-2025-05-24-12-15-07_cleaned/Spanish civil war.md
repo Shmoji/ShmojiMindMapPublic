@@ -1,0 +1,2 @@
+  * anecdotes
+    * Rares82 on X: he listened to Spanish writer and inferred that no or very little continued conflict happened after this war. Im writing this down bc if that's true then that is a successful example of the cycle of hate being stopped and i want to better understand that.

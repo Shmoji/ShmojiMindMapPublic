@@ -1,0 +1,4 @@
+  * what is it?
+    * me: incomprehensible, beyond everything you can say/think/action, infinite, unchanging. I am v confused by it being both infinite and unchanging. Maybe that paradox being true and untrue at same time is the heart of this concept. Brahman includes both, the relationship, and all. So unchanging. A category that encompasses all. I wonder if it encompasses all as it is added or if it already categorized new additions way before they happen. And if so, when did this category manifest. 
+    * me: X reminds me of Brahman alotttttt. But a more personal and interactive version of Brahman
+    * key concept in Hindu philosophy, particularly in Vedanta school of thought 

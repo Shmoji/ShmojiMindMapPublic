@@ -1,0 +1,2 @@
+  * general idea
+    * [[ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/2023-07-14#^tj0H3I9NT|no idea the form this would take - but create hypothetical situations and then go down every possible path. Maybe even make it interactive so other people can choose (and add their own branches)]]

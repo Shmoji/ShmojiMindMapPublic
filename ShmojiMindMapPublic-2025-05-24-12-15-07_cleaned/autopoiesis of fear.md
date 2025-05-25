@@ -1,0 +1,3 @@
+  * notes
+    * Totally lacks guidance from love because the WHAT question is blocked by a false answer before it can even be asked. So, fear a priori demands the unbounded pursuit of control without one having any say in choosing the goal. Bc of this, this process is completely isolated from any greater force which could provide the wisdom to guide it. It thus decouples power from wisdom. 
+    * The AoF is the generator function of the meta-crisis

@@ -1,0 +1,8 @@
+  * what is dread? #[[fast memo]] ^Lfzg1GAL0
+    * feeling helpless and feeling fear that the helplessness is close to 100% true
+    * CANDO
+    * 1) TRY OPTIMISTISM: Truth is that some situations are actually helpless. if you can, stay optimistic that you get through it. rather than being stuck on contents of dread. Optimism 1) feels good and 2) leads to better outcomes - but just dread bad for both those
+    * TRY TO ACCEPT DREAD: but totes understandable if (cant be optimistic) then try to accept dread... (sitting with it, integrating it into whatever ur attention is, without it itself taking up so much of ur attention). this leads to better feels and outcomes too, but maybe not possible too - it may need explicit attention (like when someone listens to you truly, but instead you listen to you)
+    * DO NOTHING AND SIT WITH IT: if cant accept dread, well shoot, i guess just sit with dread and change nothing since thaz only choice already active lol...sit with it. be with it. . this leads to better feels and outcomes too
+    * OTHER OPTIONS THROUGH FREEDOM OF CHOICE: or use freedom of choice to make situation better in any way at all - but again, maybe not possible
+    * DEAD PEOPLE HAVE NO WORRIES: And if literally dont make it through it, well at least if you die then it doesnt really matter to a dead person (may just suck in moments before death bc intense sensations lol) - (also against dread)

@@ -1,0 +1,7 @@
+  * what is it?
+    * With SynergyEngine you are able to make a query across a distributed network of P2P agents. Each agent will look in their local data or installed integrations to find data matching your semantic query. This process can look for data created directly in the ADAM Layer or data connected into the ADAM Layer via Web2 servers or Web3 protocols
+  * noteworthy stuff
+    * When anyone is able to serve data as a response to some query, it is important that you are able to filter out bad actors, or automated AI responses via leveraging reputation. Leveraging reputations allows you to determine the threshold of connection, or “data fingerprint” someone has to provide before being able to correctly respond to a given query. EAS has become one of the known standards on Ethereum for making available reputation data which can be either stored on chain or off chain. EAS already has a multitude of interesting [schemas](https://easscan.org/schemas) & [apps](https://www.receipts.xyz/) built. This makes it a perfect emerging solution for leveraging reputation inside SynergyEngine.
+  * features, tech
+    * semantic query
+      * A semantic query in SynergyEngine will be represented as a Prolog query which attempts to find associations between arbitrary pieces of data

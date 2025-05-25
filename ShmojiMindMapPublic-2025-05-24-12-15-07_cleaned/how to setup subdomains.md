@@ -1,0 +1,1 @@
+  * you can haz all subdomains if you have root domain. Then, just create CNAME record pointing to what you want. name of cname is subdomain. value is where it points. Ex: subdomain pointing to load balancer DNS where backend is hosted on ec2

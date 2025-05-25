@@ -1,0 +1,4 @@
+  * tracking thoughts
+    * tracking noteworthy anecdotes
+      * [[2024-04-14]]
+        * Dr K on Doctor Mike poddy: the more you think your thoughts are reality, the more mentally ill you will be. So someone in psychosis, their thoughts and reality are the same. If you look at someone having a panic attack - not quite psychosis, but their thoughts are so likely to be true that they feel real. Then you have generalized anxiety disorder. Then you have your breakup with no mental illness and you think "ill be alone forever". Then you have everyday thoughts that are kinda real. Then you have flow state with one direction focused thought. Then you have no thought state beyond flow

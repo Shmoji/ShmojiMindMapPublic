@@ -1,0 +1,1 @@
+  * the social search plugin on ChatGPT lets you search really fine details. i was surprised when i could ask very specific questions and it could fetch the data almost instantly from thousands of my posts.

@@ -1,0 +1,1 @@
+  * A nasal spray that is an antihistamine.

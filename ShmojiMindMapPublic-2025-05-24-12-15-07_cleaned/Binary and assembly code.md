@@ -1,0 +1,1 @@
+  * .exe and many other file types contain pre-built binary or assembly code. Simply, these files have the binary code of program.

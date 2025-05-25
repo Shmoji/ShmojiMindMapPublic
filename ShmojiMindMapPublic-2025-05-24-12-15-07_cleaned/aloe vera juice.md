@@ -1,0 +1,3 @@
+  * Safety concerns
+    * GRIMHOOD: Should be avoided for UC, Chron’s, and general intestinal blockages (prob includes SIBO). - i dont know exact reasons why, but maybe the point below.
+    * aloe vera juice is safe to drink every day for many without chronic issues. But drinking too much of it can cause cramping or diarrhea. This in turn can bring on an electrolyte imbalance. “If you have some of those gastrointestinal symptoms, you should probably drink aloe vera juice every other day, or every third day,” --- anecdote from registered dietitian Beth Czerwony, RD

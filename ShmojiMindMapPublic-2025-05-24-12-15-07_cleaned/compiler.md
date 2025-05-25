@@ -1,0 +1,3 @@
+  * what is it?
+    * it is software, but works closely with hardware
+    * a type of software that translates high-level programming code (like C++, Python, etc.) into low-level machine code that can be executed by a computer's hardware. The primary purpose of a compiler is to facilitate the execution of software programs on a computer's hardware by translating the code into a format that the hardware can understand and execute.

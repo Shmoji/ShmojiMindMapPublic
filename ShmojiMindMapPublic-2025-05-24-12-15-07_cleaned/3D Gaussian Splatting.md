@@ -1,0 +1,11 @@
+  * what is it?
+    * a linear process
+      * Yiming: video -> to image using sfm -> point cloud -> rasterization
+        * video - image -sfm - point cloud - rasterization" - how is this related in terms of a linear process?
+          * GPT4:
+            * Video: The process starts with capturing video footage of a real-world scene. This video provides the raw visual data needed for 3D reconstruction.
+            * Image: The video is composed of a sequence of images (frames). These individual images are used as the basis for creating a 3D representation of the scene. By extracting key frames from the video, you have a set of static images that capture the scene from various angles.
+            * Structure from Motion (SFM): SFM is a photogrammetric technique used to estimate three-dimensional structures from two-dimensional image sequences. It involves identifying common features in these images and using the differences in their perspectives to calculate the depth and position of points in the scene. The result of SFM is typically a sparse 3D point cloud and camera positions, capturing the geometry of the scene.
+            * Point Cloud: A point cloud is a collection of data points in space, where each point represents a part of the scene. The points are typically defined by their X, Y, and Z coordinates. In this process, the point cloud is generated from the SFM step, representing the 3D structure of the scene as a collection of points.
+            * Rasterization: Finally, rasterization is the process of converting the point cloud (or other 3D geometric representations) into a 2D image (or a sequence of images). It involves determining the color and shading of each pixel in the image based on the 3D geometry and the lighting conditions. This step is crucial for visualizing the 3D data on 2D screens.
+            * In summary, this linear process starts with a video of a real-world scene and, through a series of steps involving image extraction, 3D reconstruction via SFM, point cloud generation, and finally rasterization, converts it into a 2D representation suitable for display on screens or further processing in graphics applications. This pipeline is fundamental in fields like 3D mapping, virtual reality, and computer graphics.

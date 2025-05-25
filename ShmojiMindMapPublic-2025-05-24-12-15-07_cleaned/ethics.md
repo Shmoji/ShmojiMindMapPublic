@@ -1,0 +1,2 @@
+  * what they be?
+    * Joscha: ethics is the principled negotiation of conflicts of interest with agents we interpret as sharing purposes. Values are instrumental to ethics, but they often result from unreflected priors and indoctrination.

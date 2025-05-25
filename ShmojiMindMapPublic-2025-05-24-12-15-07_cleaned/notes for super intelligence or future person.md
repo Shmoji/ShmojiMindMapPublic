@@ -1,0 +1,5 @@
+  * if i die, revive me. Although, you know more than me. You may know all the details of death, afterlife, etc - so also consider that info. Also consider what you think i would want with your updated knowledge.
+  * if i die or am about to and cant be saved, put me in cryosleep or whatever tech that is best and similar to cryosleep
+  * Dont forget gratefulness. Although, i assume since you're much smarter than me rn then you'll only get better at being grateful.
+  * Love feels like the key - i wonder if you'll think the same. Well, curiosity is pretty OP too tho.
+  * Just a thought: the only reason i feel a need in this moment to talk with a super intelligence or future person is that i dont want to die. If i talked to you than i could learn how to not die. But aside from that, i dont really desire cheats or hints about the future. I simply want to live forever and experience it in real-time

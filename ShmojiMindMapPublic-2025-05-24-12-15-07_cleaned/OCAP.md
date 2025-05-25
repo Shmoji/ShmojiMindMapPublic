@@ -1,0 +1,3 @@
+  * what is it?
+    * GPT4:
+      * OCAP stands for Object-Capability Model, which is a security architecture for managing access to resources without requiring an identity as part of the access control mechanism. In traditional access control systems, permissions are often granted based on the identity of the requester (e.g., user roles or ACLs). The Object-Capability Model, on the other hand, focuses on granting access through the possession of unforgeable tokens or capabilities, which are references that directly enable an entity to perform operations on resources.

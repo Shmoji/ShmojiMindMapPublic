@@ -1,0 +1,2 @@
+  * what is it?
+    * GPT4: a nightmare where you find yourself in infinitely vast library, extending in all directions with no visible end. The walls are lined with countless books, each containing an incomprehensible mix of language and symbols. You wander through the labyrinth's aisles, but every path leads to more shelves, more books, and more confusion. You realize you are trapped in an eternal maze of knowledge, where understanding and escape are equally elusive.

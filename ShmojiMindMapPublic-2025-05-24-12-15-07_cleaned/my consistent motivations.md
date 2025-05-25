@@ -1,0 +1,3 @@
+  * list
+    * [[ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/my consistent patterns#^qPDOmxxun|MUSIC: using background music to help me focus and get working on some task ^qPDOmxxun]]
+    * [[ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/my consistent patterns#^KNXPnWqCc|MINIMAL SOCIAL PRESENCE: using a background twitch stream to help me focus in a laid back way that may or may not be productive, but still get working on a task ^KNXPnWqCc]]

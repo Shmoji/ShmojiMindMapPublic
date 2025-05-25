@@ -1,0 +1,3 @@
+  * [ ] Make so authValidation for updating a post or rating checks that person trying to update is person that originally created the post/rating 
+  * [ ] Fix tweet embeds to load instant somehow.
+    * This seems one idea. Pull all tweet data and build your own tweet components. Kinda complex bc gotta handle regular text, images, polls, etc https://mikevdv.dev/blog/2022-08-08-improving-twitter-embeds-using-the-twitter-api

@@ -1,0 +1,5 @@
+  * what is it?
+    * GPT answer:
+      * A feed-forward neural network (FFNN) is a type of artificial neural network where information flows only in one direction, from input nodes to output nodes, without any loops or cycles. In an FFNN, the input layer receives the input data, which is then passed through one or more hidden layers of neurons before reaching the output layer.
+      * Each neuron in the hidden layer takes a weighted sum of the inputs from the previous layer and applies an activation function to produce an output. The weights and biases of the neurons are learned during the training process using techniques such as gradient descent and backpropagation.
+      * The purpose of an FFNN is to approximate a function that maps a set of input features to an output variable. It can be used for a wide range of tasks such as classification, regression, and prediction. FFNNs are simple, efficient, and can be used for both small and large-scale problems.

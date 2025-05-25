@@ -1,0 +1,1 @@
+  * i learn best via negativa for sure. tell me what the concept is and i may understand. Tell me what it isn't and it clicks very quick for me

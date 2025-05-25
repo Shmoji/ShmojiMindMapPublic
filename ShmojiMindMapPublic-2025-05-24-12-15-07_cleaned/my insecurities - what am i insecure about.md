@@ -1,0 +1,2 @@
+  * not showing the emotions on my face that i can feel would be good for some person in a particular moment OR that is just the vibe in that moment. For example, often when a whole group laughs, i feel the emotion of that laughter, but my face doesnt feel like changing at all
+    * this is why i struggle with eye contact with some people. "Sorry i cant mirror that laughter back at you, so ill avoid eye contact lol"

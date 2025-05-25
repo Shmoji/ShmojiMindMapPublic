@@ -1,0 +1,5 @@
+  * what is it?
+    * ai
+      * Wuji represents the state of primordial nothingness or the state before the existence of Yin and Yang, which are the two complementary forces that give rise to all things in the universe. It is the state of pure potentiality, where all possibilities exist without differentiation.
+      * TAI CHI: Within the practice of Tai Chi, practitioners seek to embody the principles of Wuji in their movements and mindset. The goal is to achieve a state of deep relaxation, inner stillness, and balance, allowing the practitioner to harmonize with the natural flow of energy (Qi) in the body and the universe. This concept is often expressed through the opening posture of Tai Chi, which is called "Wuji stance" or "Embrace the Moon."
+      * SUMMARY: profound concept in Chinese philosophy and martial arts, symbolizing the state of ultimate potential and unity, from which all existence arises

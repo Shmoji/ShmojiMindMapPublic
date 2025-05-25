@@ -1,0 +1,5 @@
+  * what is it?
+    * gpt
+      * Shaders are a fundamental component of computer graphics programming. They are small programs that are used to control the rendering process of graphics, determining how vertices and pixels are transformed and shaded on the screen.
+      * In graphics rendering pipelines, shaders are executed on the GPU (Graphics Processing Unit) and are responsible for performing various calculations and operations on the input geometry and textures to produce the final rendered image. Shaders can manipulate attributes such as position, color, texture coordinates, lighting, and more
+      * Shaders are typically written in specialized shader languages such as OpenGL Shading Language (GLSL) or High-Level Shading Language (HLSL) and are compiled and executed on the GPU. They provide developers with fine-grained control over the visual appearance and behavior of rendered objects, allowing for a wide range of visual effects and realistic simulations in computer graphics applications.

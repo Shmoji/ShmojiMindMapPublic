@@ -1,0 +1,2 @@
+  * what is it?
+    * Though critters colonize all sections of our alimentary canal, the majority of it is found in the large intestine (also known as the colon), where it assists in the final step of the digestive labyrinth and prepares for evacuation. ^eXZgl2x6n

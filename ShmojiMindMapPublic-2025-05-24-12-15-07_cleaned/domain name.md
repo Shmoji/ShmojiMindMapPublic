@@ -1,0 +1,7 @@
+  * what is a domain #memo ^muF29YMJz
+    * a domain name is basically an id for a network. but not for a device. all domain names point to a public ip address - which is a network. Then, from the private network, a website or app is being served through some other details (may be redirections between many ports - until gets to final port - which could be 1 of many instances of app due to load balancing)
+    * but many will say domain name is id for online resource...but i feel in the end it always ends up at my definition above - even if before that it gets redirected around and whatnot
+    * the above tells about sources that serve content, but many home networks serve nothing - so why need IP? well bc internet needs some way to send content back to you and whatnot - and ID is how it do it
+    * public IP is like mailing address for your network
+      * Q: but IP doesnt include your device right? it's just IP of your network
+        * When you access content on the internet, your device sends a request to your router using its private IP address. The router then forwards this request to the internet using your network's public IP address. When the data comes back from the internet, your router knows which device requested it by looking at the private IP address that was included in the original request. Network Address Translation (NAT) is what does this process (it's supposed to be local app on router that makes so private IPs cant be hacked, but they still can be just harder)

@@ -1,0 +1,4 @@
+  * what is it?
+    * wiki: network security measure employed on one or more computers to ensure that a secure computer network is physically isolated from unsecure networks
+    * explained in detail:
+      * air-gapped computer or network is one that has no network interfaces (wired or wireless) connected to outside networks. Many computers, even when they are not plugged into a wired network, have a wireless network interface controller (WiFi) and are connected to nearby wireless networks to access the internet and update software. This presents a security vulnerability, so air-gapped computers either have their wireless interface controller permanently disabled or physically removed. To move data between the outside world and air-gapped system, it is necessary to write data to a physical medium such as a thumbdrive, and physically move it between computers

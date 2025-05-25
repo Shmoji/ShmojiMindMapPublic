@@ -1,0 +1,4 @@
+  * True creation eventually becomes independent of its creator. Evolution takes the original product far from its origin, with an uncertain outcome. – Dune, The Machine Crusade
+  * "metta towards phenomena and then having that phenomena shine metta back at you", or in the more emptiness/depersonalized state, "emptiness radiating metta to itself". ^Iz8MgIsKS
+  * quote on what is important if you want changes in ur life and what first leads to that thing that is important (2 important things for changes in ur life) #[[fast memo]] ^sllbJoXix
+    * "Endings are important because they make space, and space is important if you want to make changes in your life." - Nathaniel Drew

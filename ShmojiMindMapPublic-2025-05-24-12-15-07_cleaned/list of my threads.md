@@ -1,0 +1,6 @@
+  * ![](https://twitter.com/Shmojii/status/1673060049692786688)
+  * ![](https://twitter.com/Shmojii/status/1673370239180980237)
+  * ![](https://twitter.com/Shmojii/status/1671699346746667011)
+  * ![](https://twitter.com/Shmojii/status/1638973992576106496)
+  * ![](https://twitter.com/Shmojii/status/1682217529060601858?s=19)
+  * ![](https://twitter.com/Shmojii/status/1682137391094431744?s=19)

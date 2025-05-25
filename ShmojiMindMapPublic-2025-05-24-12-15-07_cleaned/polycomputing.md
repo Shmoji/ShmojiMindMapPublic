@@ -1,0 +1,4 @@
+  * tracking what it is
+    * [[2024-11-10]] Levin on what is polycomputing, NIH definition #[[fast memo]]
+      * Michael Levin mentioned it a bit. What i got is that it is the switching (or AT SAME TIME/polycomputing) of pair1 (body being used as memory : bioelectric patterns are agents) AND pair2 (bioelectric patterns being used as memory : body as agent)
+      * NIH definition: ability of a material to provide the results of more than ONE computation in the same place at same time (no idea if this mean multi comps happening at same time and place OR one comp providing result of multiple comps)

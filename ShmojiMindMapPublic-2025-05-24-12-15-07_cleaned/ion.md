@@ -1,0 +1,2 @@
+  * what is it
+    * an ion is an atom (or group of atoms) that has lost one or more electrons, giving it a net positive charge (cation), or that has gained one or more electrons, giving it a net negative charge (anion).

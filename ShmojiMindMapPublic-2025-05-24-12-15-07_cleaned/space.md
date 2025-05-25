@@ -1,0 +1,2 @@
+  * in math
+    * a space is a general term used to describe a set of objects that have some defined properties and relationships between them. For example, when we talk about Euclidean space, we refer to the familiar 2D or 3D space where we can measure distances and angles.

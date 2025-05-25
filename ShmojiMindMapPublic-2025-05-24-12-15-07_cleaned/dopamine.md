@@ -1,0 +1,5 @@
+  * old notes
+    * Dopamine does not cause a pleasure feeling (liking something). When blocking dopamine receptors, pleasure can still be felt. However, dopamine is directly proportional with pleasure feelings
+    * This is because dopamine gives the feeling of motivation (wanting something), PLUS a ton of other things
+    * Brain releases dopamine when thinking about reward in the future. When you actually get the reward, dopamine goes away
+    * In a study, a [team of Vanderbilt scientists](http://news.vanderbilt.edu/2012/05/dopamine-impacts-your-willingness-to-work/) mapped the brains of “go-getters” and “slackers.” They found that people willing to work hard had higher dopamine levels in the **striatum** and [[prefrontal cortex]] — two areas known to impact **motivation** and **reward**. Among slackers, dopamine was present in the **anterior insula**, an area of the brain involved in **emotion** and **risk perception**

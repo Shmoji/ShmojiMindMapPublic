@@ -1,0 +1,1 @@
+  * TODO: write a detailed doc for ai and see if i can prompt this thing to life lmao - maybe do all inside cursor with other whyspia apps

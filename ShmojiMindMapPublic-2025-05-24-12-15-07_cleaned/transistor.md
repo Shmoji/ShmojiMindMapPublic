@@ -1,0 +1,63 @@
+  * what is it?
+    * tracking what is transistor
+      * early 2024
+        * they are basically switches (button person press on or off) except instead of finger controlling state - high or low voltage controls it
+        * neuralink guy said that the biological version is [[ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ion channel#^U1PlrvpDp|**Voltage-Gated Channel**]]
+      * [[2024-10-18]] what is transistor basic, how does LC circuit work with transistor/amplifier, modulator, plancks equation and scary 5G, moores law #memo
+        * ON/OFF and AMPLIFY: 2 main functions: 1) switch to turn stuff on/off (with just current/voltage) - 0s and 1s bb and 2) amplify signals (increase strength of wave and energy, but not change wave's frequency - imagine sine-curve hills/waves getting taller splashhh, but not quicker or slower)
+        * Q: i learned using a transistor you can keep frequency the same while increasing the amplitude (which is the energy) drastically - but this confuses me because doesnt this violate plancks equation saying energy and frequency are proportional
+          * PER SOLO PHOTON: Planck's equation relates to the energy per SOLO photon, but when you talk about increasing the amplitude with a transistor, you're increasing the total energy of the ENTIRE WAVE/signal (which relates to the number of photons (quantum perspective) or the strength of the emfield (classical perspective) of that wave), not the energy of each individual photon.
+          * REPEATING TO CLARIFY: increasing amplitude/energy using transistor can be thought of as adding more photons (quantum) or increasing emfield strength (classical) - but it's both at same time - just diff perspectives. Also, energy of one photon is always proportional with frequency/wavelength of that one photon, but energy of a single signal/wave can have varying proportions of energy to frequency (because the signal/wave can contain multiple photons - increases energy by adding more photons without frequency/wavelength changing)
+          * FREQ OF SIGNAL vs FREQ OF SOLO PHOTONS: so is the FREQUENCY of the signal/wave always the SAME as the frequency of each contained photon? A: yes (and each photon has quantized energy based on frequency - but energy of entire wave depends on number of photons)
+          * **Radiant Energy (Whole Beam):** This is the **total energy** carried by all the photons in the beam over time. Radiant energy accounts for both the energy per photon (set by frequency) and the **number of photons**. If you add more photons to the beam, you increase the radiant energy without changing the energy per photon.
+          * **Radiant Power:** Often, we use the term **radiant power** (or **power of the beam**) when considering how much energy flows per unit time. Radiant power is typically measured in watts (W), where 1W=1J/s. It’s calculated as:
+          * Radiant Power=Photon Energy×Photon Rate (number of photons per second)
+          * Q: wellll what is wavelength? A: distance from start of ONE wave to end of that wave on a beam (one cycle). a measure of the spatial length of each wave cycle and changes with frequency (inversely proportional) - bc more Hertz means one cycle of that photon is shorter in distance and time (more time-chunks, but less time/distance in a cycle). frequency basically means a count of time-chunks or samples lol. meme: more freq...more time-chunky gals
+          * MEME 4 ME: SAME container time-chunk (ex: 1s), MORE time-chunks inside that container (frequency) = LESS time PER time-chunk inside (signal period - like bit period in ethernet) and wavelength is distance for light to travel that signal period
+        * BLACK RESIN CASE + METAL 4 HEAT: low power transistors enclosed in resin case to protect parts. high power transistors will have resin + partly metal case which helps to remove heat (often these are attached to heat sink which helps remove unwanted heat more)
+        * millions to billions in each device you have
+        * Moore's Law: every 2 years, num transistors on a chip should double
+        * 3 PINs: Emitter,Base,Collector EBC (lil legs)
+        * how it be a switch? E and C connected to big voltage from battery. Middle pin is B (in this example, but not always) and is connected to DC PSU. if PSU gives power less than x amount, transistor acts as switch and off; if PSU gives above x amount (which can be really small), transistor allows big voltage of battery through - controlling big voltage/current flow with a v small input voltage/current. THIS is how it is amplifier - input small voltage/current and outcome is large voltage/current (NOTE: in oscillator, usually it's small voltage from oscillator hooked to B and some external DC PSU with larger voltage being output from amplifier)
+        * can apparently hook up mic (creates small voltage/current) to base pin of transistor and then speaker on other side of circuit (that has large v/c from PSU) to create amplified voice!
+        * LOW LEVEL GAIN: typically base pin has small current. typically collector has much higher current. The ratio (B/beta is unit) of collector-current/base-current is GAIN woah! NOTE: can rearrange equation to find value of each current too
+        * Q: what usually creates voltage/current that is larger in transistor? A: just a PSU
+        * confusion point: was confused how AC current came from LC circuit to input of amplifier, but current didnt reverse back since it's AC - ends up that the input is really just a voltage that comes from LC circuit to input of amplifier. So, input is detecting something like oscillating between **+0.1V and -0.1V** at some x frequency (Hz)
+        * After this i was still confused how the information of that frequency gets from LC circuit to voltage source (PSU) of the amplifier/transistor
+        * the input voltage controls the transistor like a valve:
+          * When the input signal is positive, the transistor allows more current to flow from the external power supply.
+          * When the input signal is negative, the transistor reduces the current flow.
+          * Even though the power supply is **constant DC**, this creates a **larger output signal** that matches the frequency of the input signal but with much higher **amplitude** (taller sine hills/wave) (because the current being modulated by the transistor comes from the larger DC power supply) - dis means more powahhh (and more photons once emitted if wifi)..despite same frequency/Hz
+          * thought: kinda interesting how the AC reverse back and forth current doesnt really matter. the frequency (time per cycle) can be represented many ways - like back and forth current, low current vs high current in DC, or other ways - either way the time per cycle can still be maintained despite different physical dynamics. What matters is that that frequency or time is represented the same across physical mediums
+        * just to recap:
+          * input from LC circuit could be oscillating between **+0.1V and -0.1V** every x amount of time. Then, the output of amplifier will be oscillating between **+5V and -5V** every x amount of time. The frequency/Hz/"x amount of time" stayed the same, but the amplitude/voltage/current/energy/power/"height of hill/wave" increased! more energy, same time per cycle/oscillation
+          * this change while keeping same frequency is example of MODULATION. in diff contexts you can modulate different properties tho - it doesnt always have to be amplitude/energy - so word may mean diff things
+          * This type of modulation is not about encoding new information but simply making a small signal stronger (amplifying it) while keeping the waveform intact (frequency) - creates the standard like 2.4/5GHz that is used for carrier waves of literal data (so its kinda indirectly about encoding new info, but can just be amplifier too in other contexts like mic)
+          * When we talk about **modulation** in communication systems (like Wi-Fi), it’s about **encoding data** onto a signal (a carrier wave) so that the signal can carry information over a distance, like through the air or a cable. 
+          * Here, modulation means varying one or more properties of a high-frequency **carrier wave** (which is just a sine wave) based on the digital data being transmitted. Some common modulation techniques include:
+            * **Amplitude Modulation (AM)**: Varying the **amplitude** of the carrier wave to represent the data (same as when amplifying LC circuit)
+            * **Frequency Modulation (FM)**: Varying the **frequency** of the carrier wave.
+            * **Phase Modulation (PM)**: Varying the **phase** of the carrier wave.
+          * confusion: for communications modulation, is it much more precise? because there is alottt of data in communications. with amplifier modulation you just go from small voltage to big voltage. but for encoding data, i imagine for every 0 or every 1 you gotta modulate a different voltage or frequency or something - but im not sure i totally understand. A: yes lol
+          * ahh so it seems the LC circuit is typically what creates the base non-changing carrier wave (altho there's some different non-LC oscillator circuit too that idk about). So it creates the number you always hear, like 2.4 or 5GHz for WIFI. Although, i learned this is a range (like 2.4-2.5) and that's how you fit in channels in routers (but ill cover that somewhere else)
+          * then this base carrier wave is modified by modulator circuit
+          * MODULATOR: there's a circuit called a modulator that basically encodes digital data (all dem 0s and 1s) into voltage/current (and then radiation for WIFI or could be ethernet). For AM, it's basically just using transistors in same way as an amplifier to encode every single 0 and 1 of data. Other mod techniques are different, but dont need to know - just know similar process. EDIT: oh neat, apparently FM uses transistors inside LC circuit to modify either C or L to slightly change frequency to create 0s and 1s basically
+          * this reminded me of old learnings in astronomy: which came to this Q: does frequency of radiation correlate with energy in it? or can they be independent?
+            * cant be independent. as the frequency f increases (wavelength decreases), the energy E of the radiation also increases (which is why higher frequency radiation iz dangerous yo and why ppl scared of 5G dundundunnn)
+            * **Planck's equation** or the **Planck-Einstein relation**: E=h⋅f 
+            * where:
+              * E is the energy of the radiation
+              * h is Planck's constant (6.626×10−34J⋅s)
+              * f is the frequency of the radiation
+          * schizo thought: almost like time and energy are 2 different axis/medium for representing things in universe (for defining what every single thing is). EDIT: altho, you have one signal/wave/beam - so it's one thing carrying 2 properties
+            * in our digital systems, we have signals with many props where each represents diff things. main props what just mentioned: time and energy. we create chunks-of-time/frequency using energy/voltage. we create energy using energy/voltage lol (typically coming from force - altho all voltages create force)
+            * can represent 0s and 1s as time-chunks or as energy-chunks on some base/defined/default time (2.4/5GHz) OR energy
+            * Q: so when wifi is defined as 2.4GHz - couldnt it be defined as the energy instead? A: yes, but numbers not as intuitive at all.
+          * Q: so why did radio stations switch from AM to FM?
+            * many reasons - but one that makes sense to me is noise resistance: so many things like thunderstorms, power lines, or any device can interfere with amplitude/energy/voltage (AM), but not FM (0s and 1s are small changes in frequency instead of energy - transistors use voltage to create edits on C/L of LC circuit to represent 0s/1s by outputting slight changes in base/carrier frequency)
+          * Q: for radiation, is energy stored in efield or mfield? A: both equally
+          * Q: so does wave of radiation have voltage? A: has energy, but not until it interacts with conductor does it have voltage
+        * WOAH: my big WOW moment coming out of all this learning: to create all this cool tech, we're legit just manipulating time
+
+i suppose we are manipulating motion of particles first (thanks voltage creating force) and then the manipulation of time arises from that tho. EDIT: we're really just representing time - no idea if that is manipulation or not
+        * memo updates

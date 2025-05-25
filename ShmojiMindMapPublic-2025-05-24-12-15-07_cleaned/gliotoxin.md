@@ -1,0 +1,11 @@
+  * what is it?
+    * Gliotoxin (GTX) is produced by the common indoor mold genus [[Aspergillus]] and is immunosuppressive (=it can dampen the body's ability to ward off disease and infection)
+  * ## PASTED: WHAT DOES IT MEAN IF YOUR GLIOTOXIN RESULT IS TOO HIGH?
+    * Aspergillus fumigatus produces the immunosuppressive agent Gliotoxin. Gliotoxin is a well studied mold toxin and has long been fingered as the main chemical player contributing to the virulence of A. fumigatus.
+    * Gliotoxin is hypothesized to be an important virulence factor in Aspergillus fumigatus. Experiments have demonstrated that gliotoxin is isolated in the highest concentrations from Aspergillus fumigatus in comparison to other Aspergillus species. This species of fungi is the most common cause of aspergillosis in humans. Gliotoxin is also the only toxin that has been isolated from the sera of patients suffering from invasive aspergillosis. These results suggest a link between gliotoxin secretion and fungal pathogenicity.
+    * Exposure to fungal species that secrete gliotoxin is common because airborne Aspergillus fungal spores are ubiquitous in many environments. Regular environmental exposure does not typically cause illness, but can cause serious infections in immunosuppressed individuals or those suffering from chronic respiratory illnesses. Infections caused by Aspergillus fungus are called aspergillosis. There are many types of aspergillosis, but infections typically affect the lungs or the SINUSES.
+  * random related notes
+    * **What is Invasive Aspergillosis?**
+      * Aspergillus fumigatus is responsible for a life-threatening systemic disease called “invasive aspergillosis” (IA) in immunocompromised individuals where mold actually grows inside the lungs but can invade other areas as well. Insufficient immune defense mechanisms result in high IA mortality rates in neutropenic (low white blood cell count) and immunosuppressed patients.
+    * **Connection to Multiple Sclerosis:**
+      * Recent research has implicated the mold produced immunosuppressive Gliotoxin as a likely cause of Multiple Sclerosis in people that have a genetic disposition for MS. The frequency of MS has been increasing.

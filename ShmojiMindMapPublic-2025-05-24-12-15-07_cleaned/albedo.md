@@ -1,0 +1,11 @@
+  * what is it?
+    * Rob: basically an image
+    * me: base color of object and doesnt consider light
+    * GPT4:
+      * my prompt: so will the albedo determine all colors seen? and not consider light?
+        * Yes, the albedo texture determines the base color of an object. It's the foundational layer upon which additional lighting and shading effects are applied to simulate how an object appears under various lighting conditions. The albedo map alone, however, doesn't consider lighting, reflections, or shadows. It's used alongside other textures (like normal maps, metallic maps, and roughness maps) within a PBR workflow to achieve realistic rendering of materials under different lighting scenarios.
+        * Correct, the albedo itself does not take lighting into account. Its purpose is to define the color of a surface under neutral lighting. The rendering engine (Unreal Engine, in this case) uses the albedo alongside other textures and the scene's lighting information (like lights, environment, and shadows) to calculate how the surface appears in the final rendered image. This calculation considers the physical properties of the material, such as how reflective it is (metallic) or how smooth or rough the surface is (roughness), which affects how light interacts with it.
+  * questions
+    * how is the normal map different?
+      * GPT4:
+        * A [[normal map]], on the other hand, is quite different from an albedo map. While an albedo map defines the base color of an object, a normal map is used to simulate fine details on the surface of an object without actually modifying its geometry. Normal maps contain information that alters the way light bounces off a surface, creating the illusion of depth and detail such as bumps, dents, and other textures. This is achieved by perturbing the surface normals of the object based on the colors in the normal map (usually stored as RGB values where each channel corresponds to a spatial dimension). This technique allows for highly detailed surfaces without the computational overhead of increasing the model's polygon count. Normal maps are crucial for adding realism to objects in a scene, especially when viewed up close, as they can mimic the complexity of real-world surfaces with relatively low impact on performance.

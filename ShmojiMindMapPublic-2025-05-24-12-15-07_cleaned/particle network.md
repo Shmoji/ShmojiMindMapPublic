@@ -1,0 +1,25 @@
+  * tracking experiences
+    * tracking learnings while trying to use it to replace X oauth on whyspia
+      * [[2024-09-17]]
+        * i used one tut (jwt-demo-particle-auth) that uses Particle custom auth using JWT (opposed to Particle WaaS). Dont think this is what i need. The good: it generates user a wallet key pair. Also it logs in using email which is good and simple. BADS: it authenticates anyone that passes API any username. I wanna auth using SIWE without needing additional user popup...but not sure that's possible. Only other option seems to be using some Particle auth that depends on centralized Particle code...which i dont like bc that 3rd party dependence...but i guess if i tie user data to their wallet address...then it may still be alright?
+        * another possible issue: tying data to their public wallet may cause issues of privacy. Encryption helps, but what if broken?
+        * questions for particle network
+          * my current app uses oauth with x/twitter which then generates JWT after authed with twitter. instead i would like to use WaaS from Particle, but then i still need some way for auth and private data on my app - so i assume i still need my backend that uses JWTs. Do i need to use Particle's custom authentication or can i use just regular WaaS from Particle?
+          * i like idea of SIWE after social login with Particle, but that requires another user popup to sign right?
+          * what is signing a message with Particle even mean? i understand signing with ethers
+      * [[2024-09-18]]
+        * moral of story: i think wallet pair created by Particle can never FULLY be owned by user anyways - it will always require Particle SDK to combine user shards with Particle shard
+        * BUT, i think you can link your personal self-custodial (fully owned) to the authed social/phone/etc AND to the Particle Network UUID or Particle Netty wallet pair
+        * Q: so what does MY BACKEND store to auth people and keep data private?
+          * only idea i can think of is their custom auth JWT system
+          * brainstorming
+            * so easily i could create system that generates fully custodial wallet once they auth with Particle. But then it could easily get lost if they just clear browser local storage. Also want to mention: backend can easily verify user owns that pubKey by getting them to sign a message using their privKey. This makes so they prove auth without their privKey ever being seen by anyone else - even the backend (i did this in IM back in the day lol). BUT the issue from earlier about losing keys no good. Which is why Particle's system is quite good. They log you in with any social/phone/etc and then boom your privKey is back and not lost. i THINK you can also sign messages using this key in the exact same way as with full custodial...and i THINK this allows you to auth with backends
+            * moral of the story: i think this brainstorming helped me DECIDE. i will auth people like this using their particle generated key pairs. ill store their pubKey and do like we did with IM. This does not require their custom JWT auth pretty sure - just WaaS
+            * TODO: i need to one day understand how user can add in a full custodial wallet or smart account and even if Particle dies and email dies and phone dies, my app's data is now tied to the custodial wallet or smart account so they have credible exit. Maybe it's as simple as adding a list of all custodial accounts in my DB or something idk (i think it is - bc then they can just sign a message in same way as discussed earlier, except with their full custodial wallets or smart wallets - which can be multisigs)
+    * tracking PArticle Netty stuff i wanna remembuh
+      * [[2024-10-01]] as of today, what is Particle Netty offer that i know of no other offering? #[[fast memo]]
+        * memes: JWT:seshKey, confirmChainActionsWithoutSigs, WaaS, sigFromSignedMsg+pubAddress=confirmOwnershipWithoutAnyoneSeeingPrivAddress
+        * they offer session keys with their wallet as a service - and what this really means is your backend can auth using user's wallet without needing to sign every single time (just one time in beginning to create session key). So this allows them to perform multiple transactions (or web2 actions) with NO POPUPS at all
+        * WaaS = login with whatever and get key pair generated that is controlled by your chosen login + Particle also stores shards of your privKey too. Lil bit centralized, but at least you wont lose ur privKey lol - and you can connect fully custodial wallet to Particle wallet as backup
+        * important to remember that you can auth with a wallet pair bc some backend can validate you own a public address without seeing ur privAddress - backend sends secret msg that wallet signs on frontend and sends signature back to backend to verify ownership 
+        * session keys basically does for web3 what JWTs do for web2

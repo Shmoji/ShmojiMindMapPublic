@@ -1,0 +1,2 @@
+  * possible places for writing to the brain
+    * [[ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/neuron#^S3Mimwqxk|Axon terminals are one potential point of alteration when the brain changes via **neural plasticity**. If additional neurotransmitters are released, or if new synaptic connections are made with other neurons, brain change occurs, and this change may reflect something as basic as learning a simple fact or undergoing a simple experience.]]

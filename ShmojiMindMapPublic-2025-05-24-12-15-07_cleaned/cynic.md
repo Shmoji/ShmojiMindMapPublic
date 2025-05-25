@@ -1,0 +1,6 @@
+  * what is cynic? #[[fast memo]] ^HkSPGEqxr
+    * me: belief people are motivated 100% by self-interest (or harmful self-interest or cycle of fear/control)
+    * NOTE: i dont think anything wrong with self-interest. UNTIL it goes on to harm others. Especially bad if u know it hurts others and you continue. But aside from that, i think self-interest is usually good and healthy and agentic. So i guess cynic is about the type of self-interest that doesnt consider other people enough
+    * a type of doubt, skepticism, sussyness, distrust about people and their motivs
+    * sometimes used for feeling or distrust that something wont work well - but overall cynicism is about believing other people are possessed by domesticated mind (only self-interested - or a cycle of fear/control)
+    * EDIT: wow you can totes be cynical about complex non-person things - like political objects - just think of that object like a person - which you do indeed have a relationship with. you can find lines blur between staying realistic, cynicism, and optimism

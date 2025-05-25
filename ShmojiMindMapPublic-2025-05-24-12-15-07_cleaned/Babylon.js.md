@@ -1,0 +1,2 @@
+  * anecdotes
+    * good abstraction on lower level apis meaning that they can easily let dev flip boolean on whether to use WebGPU or WebGL (whereas other libraries may not be easy bc not very abstracted)

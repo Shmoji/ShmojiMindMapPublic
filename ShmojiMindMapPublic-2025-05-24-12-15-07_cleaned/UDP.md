@@ -1,0 +1,2 @@
+  * what is it?
+    * some YTer: apparently less important than [[TCP]]. It is more careless and doesnt care of guarantee of order, generally used for things like streaming video data (where we apparently dont care if we lose some of the packets)

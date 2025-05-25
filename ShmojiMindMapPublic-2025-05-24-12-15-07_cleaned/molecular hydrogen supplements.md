@@ -1,0 +1,2 @@
+  * what is it?
+    * random Discord person dirtboy: it's a magnesium tablet that creates magnesium hydroxide and hydrogen gas when you dissolve it in water. Supposed to affect the mitochondria and the immune system

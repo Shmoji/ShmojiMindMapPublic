@@ -1,0 +1,24 @@
+  * tracking learning
+    * [[2024-09-17]] what is tunnel, VPN relation #[[fast memo]]
+      * me: ordinary NETWORK CONNECTION...EXCEPT: network-communication-protocol-formatted-data stored inside a different network-communication-protocol-formatted-data (encapsulation of network packets)
+      * in networking, a **tunnel** refers to a communication channel between two networks that uses a protocol to encapsulate or wrap another protocol within it
+      * Tunneling works by:
+        * **Encapsulation**: A tunnel works by encapsulating one type of data packet inside another. This encapsulation allows the data to traverse a network that normally wouldn't handle that specific kind of traffic.
+          * For example, Ngrok encapsulates the HTTP/HTTPS requests from the public internet into a secure tunnel protocol (like TLS or SSH), which is sent over the internet to your local server.
+          * your home network typically isnt taking in HTTP requests lol - you can set that up like i did with home server, but takes time. OR can use tunneling to quickly do it (ur netty aint takin in Layer 4 SSL/TLS requests either, but if you send outbound packet to form connection, then ur network can take in HTTP requests without network even allowing it through tunneling/encapsulation)
+          * you can see how Layer 4 connections are more treated like internal traffic (2-way connection) and doesnt consider higher-level security. And this is on both sides of the connection (imagining ngrok no longer caring about ur local network's higher layer security and imagining u connected to company VPN and their network no longer caring about your incoming traffic/access)
+        * **Transmission**: This encapsulated packet travels through the network as if it were native traffic.
+        * **Decapsulation**: At the other end of the tunnel, the outer header is removed, and the original packet is forwarded to its final destination.
+      * Scenarios Where Tunneling Works Well:
+        * **Temporary exposure**: Great for sharing your home server for short periods, such as demonstrations or quick remote access to a development environment.
+        * **Dynamic IP address**: If you don’t have a static IP address or can’t configure your router for port forwarding, tunneling is a simple workaround.
+        * **Bypassing restrictions**: If you don’t have access to the router (e.g., in a shared apartment or behind a corporate firewall), tunneling can give you external access to your server without involving network administrators.
+      * Q: In Networking, are all connections a tunnel? Or are there connections that arent tunnels?
+        * No not all are tunnels lol. A **tunnel** refers to a specific type of connection that encapsulates network traffic, allowing it to pass securely or anonymously through a network (through = internal traffic), often over another type of network (over = emphasizes that the traffic is crossing from one point to another, often using a larger or different network to achieve connectivity, like connecting two distant sites via the internet)
+      * Q: is tunnels how VPNs mostly work?
+        * YES. VPN is to securely connect devices over an untrusted or public network (like the internet), and it does this by creating an encrypted tunnel.
+        * Q: do VPNs do this because the packets and headers that usually contain IP address are encapsulated inside the VPN protocol packets?
+          * YES. When you use a VPN, your original data packets (which include your IP address in their headers) are encapsulated inside new packets that are created by the VPN protocol. These VPN protocol packets have their own headers, which contain information about the VPN server’s IP address rather than your device's IP address.
+        * The VPN tunnel usually runs **over** the internet (a public network) but behaves as if the connected devices are directly part of a private local network. For instance, employees working from home can securely access internal company resources using a VPN as if they were physically at the office. This is why company gotta make damn sure only employees get access to VPN. Similar to ngrok, user device initiates connection to VPN, company accepts connection, and ye good (altho ngrok just connects you automatically to their cloud servers)
+      * Q: is tunneling of VPN basically used as forward proxy? is tunneling of employee using VPN to access company resources basically used as a reverse proxy?
+        * in a broad sense yes. in actual sense probably not bc i think reverse and forward proxies are actual things lol. So maybe in security sense, but not physical/location/technical sense

@@ -1,0 +1,2 @@
+  * what is it?
+    * Tor, short for "The Onion Router," is a network designed to enhance online privacy and security. It does this by directing internet traffic through a worldwide, volunteer-run network. This process helps to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis

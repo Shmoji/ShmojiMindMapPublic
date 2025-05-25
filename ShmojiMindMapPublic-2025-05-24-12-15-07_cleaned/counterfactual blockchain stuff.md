@@ -1,0 +1,5 @@
+  * what is it?
+    * counterfactual address: nothing deployed to chain for that address, but you still have the address and tokens can be sent to it somehow
+    * Counterfactual — through **generalized state channels** — solves these problems by moving processes *off* the blockchain, while still giving processes the *benefits* of blockchain.
+      * these issues: We’ve seen this problem before: the Ethereum blockchain is too expensive and too slow for most applications. It’s expensive because of gas costs — a single transaction currently costs around $.20. And it’s slow because users are forced to wait several block confirmations (at least several minutes) before a transaction is final. This experience just doesn’t fulfill the high expectations of modern users who live on web and mobile.
+    * Counterfactual transactions are *cheap* and *fast*, yet still *trustless* and *final*.

@@ -1,0 +1,1 @@
+  * Some ERs offer taxi voucher for people who can't get a ride to ER. Need to call to find out

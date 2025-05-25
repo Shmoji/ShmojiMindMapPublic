@@ -1,0 +1,1 @@
+  * how Michael Levin writes - i like it in ways, but dont in other ways. I like how it's a good framework, but also i feel my best content is when i successfully surprise myself while creating the content. So cant create mind map beforehand. But also depends on type of writing im doing: https://thoughtforms.life/how-i-write-papers/

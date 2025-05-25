@@ -1,0 +1,11 @@
+  * what it be?
+    * me: active inference is maybe not defined as this, but very related to: our body has predictions by default. Our mind has predictions by default. They are tied together and it's often hard to tell the difference between the two different prediction types. We act based on those predictions. Our mental self seems like it's somewhat not implemented in physical world, but somewhat is. Or at least our experience and senses. So we only interact with our own mind that is not physical at all times (i guess big question here, is mind that experiences physical at any point). Anyways, im already lost lol - i hate this term
+    * a framework/theory for understanding sentient behavior, developed by theoretical neuroscientist Karl Friston
+    * based on 2 concepts
+      * 1: actively engaging: organisms actively engage with (ex: move around in) their env to gain info, seek out preferred observations (food, shelter, social support), and avoid non-preferred observations (tissue damage, hunger, social support ), and avoid 
+      * 2: Bayesian inference: a statistical procedure that describes optimal way to update one's beliefs (understood as probability distributions) when making new observations (ex: new sensory input) based on rules of probability. Specifically beliefs are updated using Bayes theorem (mathy math)
+    * you'll see lots of words online, but there is actual math to back it up. BRO i promise lmao
+  * what it do?
+    * it suggests we impel ourselves to action by first creating some predicted sensation (ex: i have a sweet taste in my mouth) and then holding it until we act in the world to make this prediction become true (at which point we can release the tension). Active inference argues we store our TODO list as predictions, which are equivalent to untrue sensory observations that we act to make true.
+      * me: i dont understand the example so this makes no sense to me
+        * Think i get it now. Before ever tasting ice cream, our body only has a certain configuration of explanations of how it will taste (based on body itself and based on mental priors from eating stuff). Then, you taste it and in x seconds, you now have a newly created (and prob more true) mental and physical prediction for how it tastes along with some explanation like "Sweet"

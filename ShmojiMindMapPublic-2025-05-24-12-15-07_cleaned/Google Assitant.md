@@ -1,0 +1,1 @@
+  * Does NOT fully work with Google brand accounts. For example, could not take notes using my voice with my brand account. Then, i switched to main account and it worked
