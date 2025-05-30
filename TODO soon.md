@@ -1,27 +1,41 @@
-  * trying to make prompt so LLM can guide me to best task quickly using these notes
-    * this file contains my notes and template that i use as my TODO list. ive tried to format it in a way that organizes it best for me so i can figure out what to do as quick as possible
-    * not all capital letters are a category, but you can see i create many categories using capital letters. These categories help me narrow down what task i want to do right now
-    * your job is to help me figure out what task to do using the tasks and format in my TODO list. The quicker the better, but if you have to ask me some questions before giving me a task to narrow down what you think i wanna do - that's fine.
-  * tracking thoughts about my TODO list, goals
-    * [[2023-12-21]]
-      * Categories are basically non-resolvable goals or desires...maybe? idk that resonated with me for a second
-      * ive noticed that NON-RESOLVABLE TODOs and INFINITE GAMES are different than [[My desires]] bc they are precise TODOs - whereas desires are not precise - more guiding principles
-      * seems a lot of TODO list is based on around whether i have energy and then my mood. This works well for productive tasks, but finding it hard to format for FUN, infinite tasks bc they kinda need some of same structure from productive tasks, but not all of it. Also desires and goals are mixing, kinda making it tough to format.
-      * it almost seems like ideal is to iterate on this like so: 1) TODO list 2) desires 3) TODO list - and iterate as many times as necessary
-      * brainstorming what is important for taking action
-        * mood, desires, health
-        * priority, deadlines
-        * time to do task, time you have for task
-        * is action social? can it be? do you want it to be?
-    * [[2024-10-21]]
-      * i definitely fell off schedule and just started doing whatever felt right in the moment - altho sometimes it felt good, but not necessarily right
-      * i think im gonna try: spend at least one hour errday with whyspia and that's it. everything else will just be with the flow ^YdOUjRpEA
+
+**TODAY**
+- [ ] do reflection blog post
+- [ ] put privRoamGraph on obsidina and github before June xxx
+- [ ] make new substack for randomly manifested universe idea - maybe rename
+- [ ] blog post on difference in aesthetics and preference. aesthetics is almost like feeling the spirit of a thing and which felt spirit things that resonate with you
+
+**TOMORROW**
+- [ ] 
+
+
+
+
+- RETIRED from ROAM
+	- trying to make prompt so LLM can guide me to best task quickly using these notes
+		* this file contains my notes and template that i use as my TODO list. ive tried to format it in a way that organizes it best for me so i can figure out what to do as quick as possible
+		* not all capital letters are a category, but you can see i create many categories using capital letters. These categories help me narrow down what task i want to do right now
+		* your job is to help me figure out what task to do using the tasks and format in my TODO list. The quicker the better, but if you have to ask me some questions before giving me a task to narrow down what you think i wanna do - that's fine.
+	* tracking thoughts about my TODO list, goals
+	    * [[2023-12-21]]
+	      * Categories are basically non-resolvable goals or desires...maybe? idk that resonated with me for a second
+	      * ive noticed that NON-RESOLVABLE TODOs and INFINITE GAMES are different than [[My desires]] bc they are precise TODOs - whereas desires are not precise - more guiding principles
+	      * seems a lot of TODO list is based on around whether i have energy and then my mood. This works well for productive tasks, but finding it hard to format for FUN, infinite tasks bc they kinda need some of same structure from productive tasks, but not all of it. Also desires and goals are mixing, kinda making it tough to format.
+	      * it almost seems like ideal is to iterate on this like so: 1) TODO list 2) desires 3) TODO list - and iterate as many times as necessary
+	      * brainstorming what is important for taking action
+	        * mood, desires, health
+	        * priority, deadlines
+	        * time to do task, time you have for task
+	        * is action social? can it be? do you want it to be?
+	    * [[2024-10-21]]
+	      * i definitely fell off schedule and just started doing whatever felt right in the moment - altho sometimes it felt good, but not necessarily right
+	      * i think im gonna try: spend at least one hour errday with whyspia and that's it. everything else will just be with the flow
   * stuff to remember about these notes
-    * breaking TODO items into smaller pieces is always allowed and often a good idea
-    * feel free to reference [[My desires]] if feeling lost - they are kinda guiding principles
-    * i feel a format where actions are aligned based on what brings you to life is ideal. Like how exercise before starting is dreadful, but then you start and it's bliss
+	    * breaking TODO items into smaller pieces is always allowed and often a good idea
+	    * feel free to reference [[My desires]] if feeling lost - they are kinda guiding principles
+	    * i feel a format where actions are aligned based on what brings you to life is ideal. Like how exercise before starting is dreadful, but then you start and it's bliss
   * [ ] figure out some way to document and timestamp TODO items
-    * do i transfer to different page? filter? etc?
+	    * do i transfer to different page? filter? etc?
   * WHAT DO?: what do you want to do rn? what do you feel called to do rn? could be multiple things that conflict. if so, what are the conflicts? should you follow desires rn or challenge? how to converge on what to do?
     * DEADLINE: is there anything with a deadline that needs to be done soon no matter how im feeling and how long a task it is?
       * [ ] data compress these somehow:
@@ -31,27 +45,27 @@
       * [ ] use this one day to learn in detail what division, fractions, log, root, exponentiation is
         * https://x.com/nascentwisp/status/1830120411146727617
     * CONSISTENT TODOs
-      * [ ] DAILY
-        * [ ] [[ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/TODO soon#^YdOUjRpEA|i think im gonna try: spend at least one hour errday with whyspia and that's it. everything else will just be with the flow]]
-        * [ ] 1 silly twt per day 
-        * [ ] for 30 days write what you found funny at EOD to understand own humor
-      * [ ] WEEKLY
-        * [ ] learn just to learn - ((-neNd3A6_))
-        * [ ] create art
-        * [ ] look at dees
-          * the present moment is the goal
-          * leaning into Self no matter how much it seems to be unpleasant and needs to change
-          * let yourself fail
-          * wabisabi
-          * remember the winner effect and how it does not come immediately
-          * am i taking victim POV rn?
-          * AND, THROUGH
-          * flow from outside time - from highest center of control - of action
-          * look at thing(s) im obsessed with (or giving attention to) - am i obsessed with the PROCESS or the IDENTITY or the OUTCOME? like historically i obsess over wanting to express something creatively - i think this may be obsession with mostly identity (who/what i think creative expression is and how it feels), somewhat outcome, and somewhat process - but best to be all in on process. i think it's hard when different processes fight each other OR when the process is hArD/bad or always leads to bad outcomes - be guided by processes you enjoy DESPITE identities (who/what u think something is) or outcomes
-          * breathe in to every sensation - but it's not actually breathing - but saying "breathe in" triggers the understanding
-        * [ ] [[Exercise]]
-        * [ ] go on one [[adventure]]
-      * [ ] MONTHLY
+	      * [ ] DAILY
+	        * [ ] [[ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/TODO soon#^YdOUjRpEA|i think im gonna try: spend at least one hour errday with whyspia and that's it. everything else will just be with the flow]]
+	        * [ ] 1 silly twt per day 
+	        * [ ] for 30 days write what you found funny at EOD to understand own humor
+	      * [ ] WEEKLY
+	        * [ ] learn just to learn - ((-neNd3A6_))
+	        * [ ] create art
+	        * [ ] look at dees
+	          * the present moment is the goal
+	          * leaning into Self no matter how much it seems to be unpleasant and needs to change
+	          * let yourself fail
+	          * wabisabi
+	          * remember the winner effect and how it does not come immediately
+	          * am i taking victim POV rn?
+	          * AND, THROUGH
+	          * flow from outside time - from highest center of control - of action
+	          * look at thing(s) im obsessed with (or giving attention to) - am i obsessed with the PROCESS or the IDENTITY or the OUTCOME? like historically i obsess over wanting to express something creatively - i think this may be obsession with mostly identity (who/what i think creative expression is and how it feels), somewhat outcome, and somewhat process - but best to be all in on process. i think it's hard when different processes fight each other OR when the process is hArD/bad or always leads to bad outcomes - be guided by processes you enjoy DESPITE identities (who/what u think something is) or outcomes
+	          * breathe in to every sensation - but it's not actually breathing - but saying "breathe in" triggers the understanding
+	        * [ ] [[Exercise]]
+	        * [ ] go on one [[adventure]]
+	      * [ ] MONTHLY
         * [ ] go over [[My desires]], judge what's most important to you - maybe journal about it, then create TODO items based on that...or dont...maybe just occasional review is useful? idk this is experiment
     * i HAZ ENERGY: do i have the energy to be productive rn? if no, can i challenge current energy and still be productive?
       * NO TIEM: if i truly only have small amount of time and just want any task that is gonna be quick

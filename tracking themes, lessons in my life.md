@@ -13,14 +13,11 @@
       * it really is a kind of mental move. could be wrong, but i think it's just a quickly executed mental move, not one that needs to be maintained over time using energy
       * the thing above is also somehow related to that meme saw about "i just gotta" loop being about looking for safety and you dont just gotta do anything. this scales to all sensations and mental actions
       * noticed if i can literally breathe into the alive thing/the thing outside of "i gotta", but still allow the tension/"i gotta" - then this is OP
-    * [[ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/2024-09-23]] lesson/theme on memes, my project, communication using memes, spaced repetition #[[fast memo|2024-09-23]] lesson/theme on memes, my project, communication using memes, spaced repetition #[[fast memo]]
+    * [[2024-09-23]] lesson/theme on memes, my project, communication using memes, spaced repetition #[[fast memo|2024-09-23]] lesson/theme on memes, my project, communication using memes, spaced repetition #[[fast memo]]
       * for years and years ive always wanted to create a market of definitions - where anyone can privately or publicly define all the symbols they know (then you can compare with other people and clear up confusion - plus good for education)
-
-but recently i realized that i wouldnt even really wanna do this (without proper incentives)
-
-now what i do indeed want to do (by natural incentives NOW): i want to define meme-like symbols for the sake of recalling later
-
-so i want to store meme-like symbols that very likely only make sense to me - for the sake of ME being able to recall that info again at a later time (whereas if i dont store that symbol, there's less chance i will remember it later - which is why there is a natural incentive)
+      * but recently i realized that i wouldnt even really wanna do this (without proper incentives)
+      * now what i do indeed want to do (by natural incentives NOW): i want to define meme-like symbols for the sake of recalling later
+      * so i want to store meme-like symbols that very likely only make sense to me - for the sake of ME being able to recall that info again at a later time (whereas if i dont store that symbol, there's less chance i will remember it later - which is why there is a natural incentive)
       * the above made me realize that best way to communicate is to find intersection of UR memes with other ppl's memes (which prob gets more general the larger the group ur communicating with is or if dont know what to talk about)
       * when im recording things down for spaced repetition, i need to experiment with really listing out all my memes
     * [[2024-09-24]]
