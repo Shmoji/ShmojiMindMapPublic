@@ -2,6 +2,8 @@
 **TODAY**
 - [ ] do reflection blog post
 - [ ] put privRoamGraph on obsidina and github before June xxx
+- [ ] memo Liminality video
+- [ ] schedule explicit time to transfer old memos to Anki. Only small pieces that feel necessary or memey
 - [ ] make new substack for randomly manifested universe idea - maybe rename
 - [ ] blog post on difference in aesthetics and preference. aesthetics is almost like feeling the spirit of a thing and which felt spirit things that resonate with you
 
