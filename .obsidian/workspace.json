@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a1df3f785df81ee",
+        "id": "9702f94a4b3cf15c",
         "type": "tabs",
         "children": [
           {
-            "id": "c5458a88d59c957d",
+            "id": "1e37d8dfef018080",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "TODO soon.md",
+                "bFile": "TODO soon.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: TODO soon"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:drea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO soon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO soon"
+              "title": "Backlinks"
             }
           },
           {
@@ -177,18 +180,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5458a88d59c957d",
+  "active": "1e37d8dfef018080",
   "lastOpenFiles": [
+    "Dream Journal.md",
+    "symptom- bad sleep.md",
+    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/Dream Journal.md",
+    "tracking nightmares.md",
+    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
+    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
+    "TODO soon.md",
     "forms submitted for emote, whyspia related stuff, app.md",
     "My desires.md",
-    "TODO soon.md",
     "things im currently resonating with.md",
     "tracking feeling clear.md",
     "2025-05-24.md",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/2024-09-23.md",
     "tracking themes, lessons in my life.md",
-    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
-    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
     "memes of my life.md",
     "2025-05-21.md",
     "2025-04-18.md",
@@ -203,10 +210,6 @@
     "How Does it Feel TODO.md",
     "TODO.md",
     "IP address.md",
-    "7eleven in Japan.md",
-    "random journal.md",
-    "2025-05-25.md",
-    "松屋 (matsuya).md",
     "Attachments/imgs/app/ShmojiMindMapPublic/pVo-imw7RJ.png",
     "Attachments/imgs/app/ShmojiMindMapPublic/HGQpykPtt-.png",
     "Attachments/imgs/app/ShmojiMindMap/VbqziCSlpo.webp",
