@@ -1,3 +1,6 @@
+  * List of Smosh games ive watched and know I'd enjoy
+    * Blank Slate
+    * 
   * Exploding Kittens
     * Goal: don't pull an exploding kitten card from deck
     * Cards

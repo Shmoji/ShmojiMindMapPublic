@@ -1,3 +1,6 @@
+- things that definitely bloat me
+    - cereal: The Original grape-nuts. Brand: Post. Super healthy actually. But the main ingredients are indeed wheat/flour which is known to bloat me, BUT who knows maybe iz not the wheat/flour
+    - 
   * tracking when it happened to me
     * [[2023-10-31]]
       * had shrimp poke bowl for lunch. had grain silo for dinner. had sun chips. had few dark chocolates. Bloating was at about 3-4/10. My guess is something in grain silo

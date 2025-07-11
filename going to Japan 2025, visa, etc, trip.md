@@ -1,7 +1,7 @@
   * NOTE: this is just for tracking Japan 2025 trip
   * tracking things
     * tracking some of my options in Japan, what to do once there
-      * list of static things ill do
+    * list of static things ill do
         * go to Shakuson-ji temple (mountain temple) that is 30 minutes from Komoro
         * get Michelle or someone else to connect me with Tanaka-san so i can start looking at Akiya asap
         * i want to meetup with some people at temples. Ask them about life. Ask the about thoughts on techno temple
@@ -11,7 +11,7 @@
         * look for and then go to museums - especially art
         * would like to visit somewhere related to tea. could be place making it or place holding tea ceremony or whatever
         * try out an onsen
-      * brainstorming
+    * brainstorming
         * [[2024-05-02]] first ideas on Japan trip 2025, prefectures, regions, islands, what iz Komoro and it for all dese #[[fast memo]]
           * Natalie - could ask if can live there
           * AKIYA COLLECTIVE: stay here in Komoro (city) of **Nagano** Prefecture (Chubu region, Honshu island)
@@ -30,7 +30,6 @@
           * maybe i can literally search for/explore/visit 1) a physical home 2) a physical community 3) communities in general
           * for physical homes im looking for 1) something i vibe with in appearance and location and safety 2) would be very preferable if it is part of a community that is walkable, but not a must i guess
           * people interested in building a ?home generator?
-
     * tracking learnings on visas
       * [[2024-05-02]]
         * apparently there is a digital nomad visa that lasts 6 months. No idea the requirements tho
@@ -69,12 +68,14 @@
         * [x] umbrella
         * [x] webcam
   * questions
+    * How much did living in Japan cost in total per month?
+        * Somewhere around $1300 per month for food, rent, and errthing else
     * CATEGORY: questions for set-in-stone schedules
       * when to get to RDU?
         * 3pm unless better/earlier time works for Papa my driver
     * what is best airport to fly into if going to Komoro?
-      * Haneda bc the closest airport to Tokyo Station is **Haneda Airport**
-      * From Haneda Airport, you can reach Tokyo Station in about:
+        * Haneda bc the closest airport to Tokyo Station is **Haneda Airport**
+        * From Haneda Airport, you can reach Tokyo Station in about:
         * **20–30 minutes by train** using the Keikyu Line to the JR Yamanote Line or the Tokyo Monorail to the JR lines.
         * **30–40 minutes by taxi**, depending on traffic.
         * costs by GPT:

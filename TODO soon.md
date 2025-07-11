@@ -1,11 +1,13 @@
+nonreactivity...just notice. OR know and see GOOD in each tension and feel that goods open/softness
 
-**TODAY**
-- [ ] do reflection blog post
-- [ ] put privRoamGraph on obsidina and github before June xxx
-- [ ] memo Liminality video
-- [ ] schedule explicit time to transfer old memos to Anki. Only small pieces that feel necessary or memey
-- [ ] make new substack for randomly manifested universe idea - maybe rename
-- [ ] blog post on difference in aesthetics and preference. aesthetics is almost like feeling the spirit of a thing and which felt spirit things that resonate with you
+Workaway
+
+Try lion's mane
+
+
+get guitar from Dad's 
+
+**TODAY** * document with vid all my whyspia apps like vcApps * POSTPONED: on monday call wells Ortho and ask about molar implant recommendation theyyyy mentioned * make new substack for randomly manifested universe idea - maybe rename * blog post on difference in aesthetics and preference. aesthetics is almost like feeling the spirit of a thing and which felt spirit things that resonate with you
 
 **TOMORROW**
 - [ ] 
