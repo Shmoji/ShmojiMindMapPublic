@@ -1,7 +1,10 @@
-  * THC
-  * HHC
-    * Anecdotes
-      * On reddit, there was post from paper saying HHC is better for pain than THC. Many people commenting agreed. Some said it doesn't get you as high and more pain relief. Combining with CBD works well. I need to experiment myself.
+  * weed
+    * CBD
+        * what i used from 2020-2024: cbdMD Full Spectrum 50mg cbd per gummy
+    * THC
+    * HHC
+        * Anecdotes
+            * On reddit, there was post from paper saying HHC is better for pain than THC. Many people commenting agreed. Some said it doesn't get you as high and more pain relief. Combining with CBD works well. I need to experiment myself.
   * NSAIDs
     * Can cause stomach and kidney issues
     * Uses
@@ -19,4 +22,4 @@
     * Examples: Tylenol, NyQuil/DayQuil, Goodys, tons of things really
   * Terms
     * Analgesic
-      * Drugs that help with pain
+        * Drugs that help with pain

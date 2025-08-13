@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9702f94a4b3cf15c",
+        "id": "cae0def9fef709e8",
         "type": "tabs",
         "children": [
           {
-            "id": "1e37d8dfef018080",
+            "id": "19d4e7b353a488c1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "TODO soon.md",
-                "bFile": "TODO soon.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: TODO soon"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:drea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,36 +176,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e37d8dfef018080",
+  "active": "19d4e7b353a488c1",
   "lastOpenFiles": [
-    "Dream Journal.md",
-    "symptom- bad sleep.md",
-    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/Dream Journal.md",
-    "tracking nightmares.md",
+    "memes of my life.md",
+    "2025-08-11.md",
+    "biomarkers that may be issue.md",
+    "Diagnosis.md",
+    "Health.md",
+    "Health websites.md",
+    "Health Experimenting.md",
+    "Health brainstorming.md",
+    "doctor types ive been to.md",
+    "ai.md",
+    "Health history story.md",
+    "big health events.md",
+    "Untitled.md",
+    "nft stories, shtories.md",
+    "interactive NFTs.md",
+    "buying NFTs.md",
+    "NFTs.md",
+    "forms submitted for emote, whyspia related stuff, app.md",
+    "cod liver.md",
+    "Creative ideas.md",
+    "get a job mid-2025.md",
+    "threejs journey by Bruno Simon.md",
+    "Pain killers.md",
+    "real estate, property, land, houses.md",
+    "vibecamp 2025.md",
+    "symptom bloating.md",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
-    "TODO soon.md",
-    "forms submitted for emote, whyspia related stuff, app.md",
-    "My desires.md",
-    "things im currently resonating with.md",
-    "tracking feeling clear.md",
-    "2025-05-24.md",
-    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/2024-09-23.md",
-    "tracking themes, lessons in my life.md",
-    "memes of my life.md",
-    "2025-05-21.md",
-    "2025-04-18.md",
-    "2025-05-15.md",
-    "2025-05-13.md",
-    "2025-05-08.md",
-    "2025-05-10.md",
-    "2025-05-11.md",
-    "2025-05-12.md",
-    "blender.md",
-    "Shmoji Site TODO.md",
-    "How Does it Feel TODO.md",
-    "TODO.md",
-    "IP address.md",
     "Attachments/imgs/app/ShmojiMindMapPublic/pVo-imw7RJ.png",
     "Attachments/imgs/app/ShmojiMindMapPublic/HGQpykPtt-.png",
     "Attachments/imgs/app/ShmojiMindMap/VbqziCSlpo.webp",
