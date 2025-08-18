@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cae0def9fef709e8",
+        "id": "ca8f6c38ae68a99f",
         "type": "tabs",
         "children": [
           {
-            "id": "19d4e7b353a488c1",
+            "id": "175e9e37088a1f13",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -71,11 +71,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 243.5
   },
   "right": {
     "id": "6b47e58f0279dfc3",
@@ -176,12 +176,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19d4e7b353a488c1",
+  "active": "175e9e37088a1f13",
   "lastOpenFiles": [
     "memes of my life.md",
+    "doctor sites, medical data.md",
+    "tracking general health next steps and decisions.md",
+    "2022-12-01.md",
+    "2022-11-01.md",
+    "mris ive done.md",
+    "CT scans ive done.md",
+    "lab tests ive done.md",
+    "XRays ive done.md",
+    "Diagnosis.md",
+    "Potential Diagnosis For Me.md",
     "2025-08-11.md",
     "biomarkers that may be issue.md",
-    "Diagnosis.md",
     "Health.md",
     "Health websites.md",
     "Health Experimenting.md",
@@ -190,20 +199,11 @@
     "ai.md",
     "Health history story.md",
     "big health events.md",
-    "Untitled.md",
     "nft stories, shtories.md",
     "interactive NFTs.md",
     "buying NFTs.md",
     "NFTs.md",
     "forms submitted for emote, whyspia related stuff, app.md",
-    "cod liver.md",
-    "Creative ideas.md",
-    "get a job mid-2025.md",
-    "threejs journey by Bruno Simon.md",
-    "Pain killers.md",
-    "real estate, property, land, houses.md",
-    "vibecamp 2025.md",
-    "symptom bloating.md",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
     "Attachments/imgs/app/ShmojiMindMapPublic/pVo-imw7RJ.png",

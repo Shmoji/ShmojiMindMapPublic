@@ -1,0 +1,8 @@
+- list
+    - March 28th 2022: CT brain without contrast
+        - can find on UNC myChart or here: https://imaging.unch.unc.edu/invoke#fmi6m25m1
+    - Sep 27th 2022: CT abdomen/pelvis
+        - can find on UNC myChart or here: https://vnamobileexternal.wakemed.org:8443/viewer
+    - April 5th 2023: CT abdomen/pelvis
+        - can find on UNC myChart or here: https://vnamobileexternal.wakemed.org:8443/viewer
+    - 

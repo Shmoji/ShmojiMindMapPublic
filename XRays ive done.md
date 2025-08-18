@@ -1,0 +1,4 @@
+- list
+    - April 10th 2023: XR abdomen
+        - can find on UNC myChart or here: https://vnamobileexternal.wakemed.org:8443/viewer
+    - 

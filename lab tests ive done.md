@@ -2,3 +2,5 @@
   * list
     * [[ultrasounds ive done]]
     * [[mris ive done]]
+    * [[CT scans ive done]]
+    * [[XRays ive done]]

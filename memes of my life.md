@@ -1,10 +1,16 @@
   * TODO: maybe tie each of these to an ai chat
   * list
-    * purgatory: yayy waiting on responses from applied-to-things and sending more applications...but i want to be out of RP right now!!
-        * WAITING FOR PRAXIS: Life Itself Praxis Hub Practicum - gotta wait 1-2 weeks to see if i get next interview with Rufus
-        * IF NO PRAXIS, HELLO NYC: if i dont get accepted to Praxis thing...i guess im just gonna book trip to NYC. Gonna try to do workaway with that lady Pat
-        * DELTA HACK: Gonna take part in 3 week Delta hackathon thing from The Residency in Cali. Think theyre really looking for business people, so may not put all time into it, but will deliver each week to see if i get in...plus i have literally nothing else to do but work on my own projects anyways lol
-        * JapLangSchools: im waiting for TCJ to say if any spaces opened and i can apply. Same for Shibuya Gaigo. ALSO, not taking out any Tesla stock until after their earnings call tomorrow on Jul 23rd - but i NEED to in order to get a bank statement with >1mil yen to show off. I need to get that bank statement, THEN i can put money back into stonk or crypto
+    * FLIGHT TO FRANCE: how to get it cheapest, but easiest, and also safest
+        * brainstorming
+            * rn i only know of 3 options:
+            * 1) RDU to BOD for about $1000
+            * 2) ILM to BOD for about $1000
+            * 3) ILM to JFK (1 ticket) and then JFK to BOD (1 ticket). Not connected flights so lots of risks. Can i get there v early just in case of delays??? Then am i cool just waiting if super early?? What is max delay that could happen?? (maybe 4H) How long does customs take once get to JFK? (maybe 2-3H)
+            * other things to consider when getting DEPARTING flight:
+            * 1) what time do i get to BOD? after getting there i need time to take train to Bergerac. Can i buy that train ticket once i get there? or does need to be ahead of time?
+            * other things to consider when getting RETURNING flight:
+            * 1) does my flight out of BOD allow me time to take train from Bergerac to BOD? research: you would take train from Bergerac to Bordeaux Saint-Jean station (1H30M) and then need to take 30Direct Airport Shuttle from that station to BOD (30M)
+            * 2) am i getting back to Wilmington at time that allows someone to pick me up...so not midnight (this assumes i get back to ILM) 
     * POSTPONED: apply to Japanese Language School
         * schools im looking at now
             * Tokyo Central Japanese Lang School
