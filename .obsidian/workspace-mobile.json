@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO soon.md",
+                "file": "TODO soon-whatiskespingmefromfinishing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO soon"
+              "title": "TODO soon-whatiskespingmefromfinishing"
             }
           }
         ]
@@ -60,7 +60,7 @@
           "type": "search",
           "state": {
             "query": "",
-            "matchingCase": false,
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "random journal.md",
+            "file": "TODO soon.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,30 +166,33 @@
   },
   "active": "c08c82a3346f12ab",
   "lastOpenFiles": [
+    "Diagnosis.md",
+    "TODO soon-whatiskespingmefromfinishing.md",
+    "memes of my life.md",
+    "2023-04-05.md",
+    "2025-08-10.md",
+    "2025-08-09.md",
+    "Log of health notes.md",
+    "Game showcases.md",
+    "urgentcarevisit.md",
+    "roam-memo.md",
+    "2025-08-08.md",
+    "2023-12-18.md",
+    "Health history story.md",
+    "me in relation to sibo.md",
+    "Creative ideas.md",
+    "creating video games.md",
+    "Board and card games.md",
     "random journal.md",
     "Spiritual Journal.md",
-    "TODO soon.md",
     "going to Japan 2025, visa, etc, trip.md",
-    "Board and card games.md",
     "Antihistamines.md",
     "Pain killers.md",
     "Inflammation.md",
     "symptom bloating.md",
     "tracking hiccups.md",
     "symptom bloating.md",
-    "chocolate.md",
-    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/Kidney stones.md",
-    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/chocolate.md",
-    "Cool phrases, names, titles.md",
-    "lyrics to song.md",
-    "Food.md",
-    "memes of my life.md",
-    "vibecamp 2025.md",
-    "doctor types ive been to.md",
-    "List of doctors.md",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
-    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
-    "vibecamp.md",
-    "movies with no or lil mapped info.md"
+    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned"
   ]
 }

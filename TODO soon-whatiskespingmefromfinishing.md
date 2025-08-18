@@ -1,18 +1,27 @@
-nonreactivity...just notice. OR know and see GOOD in each tension and feel that goods open/softness
-
-Workaway
-
-Try lion's mane
+24/7 just gotta feel the outward falling feeling AND can go to each tension/observer and feel prior feeling in spacious open way, going from dense to spherical open, but stay on feeling and dont get mind/attention lost on this process
 
 
-get guitar from Dad's 
-
-**TODAY** * document with vid all my whyspia apps like vcApps * POSTPONED: on monday call wells Ortho and ask about molar implant recommendation theyyyy mentioned * make new substack for randomly manifested universe idea - maybe rename * blog post on difference in aesthetics and preference. aesthetics is almost like feeling the spirit of a thing and which felt spirit things that resonate with you
-
-**TOMORROW**
-- [ ] 
+Look into stooden loany loans amd thnk bout what do with moneyyy
 
 
+keep calling first thing in morning and ask for cancellation for Dr Boyle
+
+
+Ask Cristina another patch for jeans
+
+
+Ponder on a play substack
+
+
+TODAY:  -blog post on difference in aesthetics and preference. aesthetics is almost like feeling the spirit of a thing and which felt spirit things that resonate with you
+
+TOMORROW: -
+
+Cup at James
+
+Computer that says LifeOS. Turns into glasses you put on. Choose life or na. Current LifeOS has ?7 main pieces. They are missing. You must collect them. Maybe some sign says this. You are in first location on first floor. Always travel to next floor at end. Easy to get collect, but then must use fx in order to continue
+
+Map > quest board location > travel there and at end you unlock the default/global for quest board
 
 
 - RETIRED from ROAM

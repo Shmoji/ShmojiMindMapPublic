@@ -1,30 +1,8 @@
   * List of Smosh games ive watched and know I'd enjoy
     * Blank Slate
+    * Catch the Vibe
+    * Exploding Kittens
     * 
-  * Exploding Kittens
-    * Goal: don't pull an exploding kitten card from deck
-    * Cards
-
-      * Exploding Kitten
-
-      * Diffuse: stop kitten from exploding 
-
-      * Nope
-
-      * Kitten
-
-      * Feral kitten
-
-      * Shuffle
-
-      * See 3 cards ontop of deck
-
-      * See 3 cards ontop of deck and change them
-
-      * Pull bottom card of deck
-
-      * 
-
   * Azul
 
     * Game ends when round ends and someone has 1 full horizontal row
