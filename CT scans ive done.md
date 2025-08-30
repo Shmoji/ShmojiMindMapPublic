@@ -1,6 +1,7 @@
 - list
     - March 28th 2022: CT brain without contrast
         - can find on UNC myChart or here: https://imaging.unch.unc.edu/invoke#fmi6m25m1
+    - [[2022-08-29]] - Had a CBCT of entire head at Stanley Dentist in Cary to look at teeth and jaw joints. Less radiation than regular CT, but still not ideal. They had someone that i guess is TMJ specialist that said iz not TMJ.
     - Sep 27th 2022: CT abdomen/pelvis
         - can find on UNC myChart or here: https://vnamobileexternal.wakemed.org:8443/viewer
     - April 5th 2023: CT abdomen/pelvis
