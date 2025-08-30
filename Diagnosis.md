@@ -3,14 +3,15 @@
     * SIBO (positive for hydrogen producing bacteria based on triosmart breath test)
     * Swollen lymph nodes on jaw floor. Chronic lymphadenopathy
     * Chronic kidney stones and elevated oxalate levels
-    * Chronic sinusitis. Mild mucosal thickening in xxx sinuses
+    * Chronic sinusitis. Mild mucosal thickening in sinuses
+    * Chronic postnasal drip
     * Low white blood cells and neutrophils multiple times
     * Inflammation in nose, including turbinates
     * Inflammation and bleeding gums
     * inflammation in throat and on tonsils
-    * Varicocele
-    * Chronic constipation
-    * pancreatitis (based on elevated lipase and amylase levels and upper tummy pressure)
+    * Varicocele (now gone)
+    * Chronic constipation (on and off)
+    * pancreatitis (based on elevated lipase and amylase levels and upper tummy pressure) - only one time tho
     * [[biomarkers that may be issue]]
   * Possibly Professional Diagnosis or self diagnosed
     * Rash across bridge of nose

@@ -1,13 +1,24 @@
 24/7 just gotta feel the outward falling feeling AND can go to each tension/observer and feel prior feeling in spacious open way, going from dense to spherical open, but stay on feeling and dont get mind/attention lost on this process
 
 
+common templates: 1) where you can find me 2) on my mind
+
+
+
+Call ortho place to get dentist recommend. Go to dentist. Mention sensitive tooth on top left at ortho. Mention sensitive tooth at top right i discovered
+
+
+Lookup if carrier works in france for tmobile. Continue grok chat to see if that additional roaming plan is good and i just pay Marty like 35
+
+Ask what I'll be working on maybe
+
+
+
+Blog on laptop, type explanation of newest project and see if chatgpt can oneshot it as OS in browser
+
+
+
 Look into stooden loany loans amd thnk bout what do with moneyyy
-
-
-keep calling first thing in morning and ask for cancellation for Dr Boyle
-
-
-Ask Cristina another patch for jeans
 
 
 Ponder on a play substack
