@@ -2,6 +2,9 @@
     * [[2025-08-24]]
         * ive had weeks or even months of rough >5/10 symptoms and then last night they went down to like 2-3/10 for first time in long time. i felt pretty good. and it has lasted until today. i woke up feeling good. so what is cause?
 	    - ideas from new things: 1) had tiny piece of weed cookie from Tennessee (21 Cannabis Hemp Brownie. Delta 9 THC and CBD) - can look up ingredients 2) ate Mother in Laws kimchi from whole foods for first time in prob over a year 3) i spent like 30 minutes dancing in room lol 4) on day like 2 or 3 of starting black seed oil back 5) have been doing hot salt water gargle for about a week now. Definitely helps immediately but not sure if in this way or not
+	- [[2025-08-29]]
+	    - started today off in pretty srs >5/10 pain. Just after midday my pain dropped so significantly i kinda felt good ...but why? My ideas: 1) kimchi for lunch 2) started full dose of Blueprint Essential Capsules for vitamins except C
+	    - been taking the hemp brownie for multiple days...so dont think it is cause, but not totally sure
 	- 
 * tracking manual techniques for reducing pain
 	* [[2024-05-06]]
