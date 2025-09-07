@@ -1,20 +1,23 @@
 24/7 just gotta feel the outward falling feeling AND can go to each tension/observer and feel prior feeling in spacious open way, going from dense to spherical open, but stay on feeling and dont get mind/attention lost on this process
 
 
-common templates: 1) where you can find me 2) on my mind
+Call Dr Kamitsuka first bc wilmy. Call Dr Prefect appmt. First ask if he's taking new patients. I had referral but it expired as i was doing ENT. My endocrinologist said to go to infectious disease doc
 
 
+Call Shipyard Medical to see if blood draw was scheduled or na
 
-Call ortho place to get dentist recommend. Go to dentist. Mention sensitive tooth on top left at ortho. Mention sensitive tooth at top right i discovered
+Your Community Dental on Dec 23rd at 3pm
 
-
-Lookup if carrier works in france for tmobile. Continue grok chat to see if that additional roaming plan is good and i just pay Marty like 35
-
-Ask what I'll be working on maybe
+Make 3 diff tabs for 3 points sent to Madison. Just use localstorage at first simple simple. Like for first keep super simple. Just ability to create categories and symbols as items that can point to apps
 
 
+Marty call
+- Lookup if carrier works in france for tmobile. Continue grok chat to see if that additional roaming plan is good and i just pay Marty like 35. $35 10day international pass
+- say how Payton is really good listener. Like truly listening
+- his new computer
 
-Blog on laptop, type explanation of newest project and see if chatgpt can oneshot it as OS in browser
+
+type explanation of newest project and see if chatgpt can oneshot it as OS in browser
 
 
 
@@ -29,10 +32,6 @@ TODAY:  -blog post on difference in aesthetics and preference. aesthetics is alm
 TOMORROW: -
 
 Cup at James
-
-Computer that says LifeOS. Turns into glasses you put on. Choose life or na. Current LifeOS has ?7 main pieces. They are missing. You must collect them. Maybe some sign says this. You are in first location on first floor. Always travel to next floor at end. Easy to get collect, but then must use fx in order to continue
-
-Map > quest board location > travel there and at end you unlock the default/global for quest board
 
 
 - RETIRED from ROAM

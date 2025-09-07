@@ -4,6 +4,8 @@
     * Exploding Kittens
     * That's Totally You
     * Flip 7
+    * it's giving
+    * Trivial Pursuit
   * Azul
 
     * Game ends when round ends and someone has 1 full horizontal row
