@@ -9,3 +9,6 @@
     * [[2025-06-12]]
         * Woke multiple times in the night and each time was waking from pretty intense nightmare. Only idea: ate tonnnnn of meatballs in new meatball sotanghon. Do not know the type of meatball, but looked like it had other ingredients like spices and veggies tbh. so my main idea/guess for cause of nightmares and not being able to sleep: BEEF
         * nightmare 1: force to military thing during vacation in mountains by d. nightmare 2: all my teeth just dislodged in my mouth with braces all tangled - in dream the reason for not being able to sleep irl was because of THIS - somehow i didnt even know 
+    * [[2025-09-02]]
+	    * Had weird alien/actually human home invader dream last night, pretty intense. The only possible causes: 1) had lots of pork BELLY last night, i went for seconds lol. When i woke up from nightmare i kinda felt pukey too which is rare. 2) had baked potato, i dont think it was da potato
+	* 

@@ -1,9 +1,9 @@
-  * TODO
+* TODO
     * [ ] go through all ARHS boone results in email and record here and in [[all biomarkers ive tested]]
     * [ ] figure out if any of other biomarkers in big list (out of range at some point) need to be in the WORRY list (one right der below)
-  * NOTES
-    * will keep data in my DB and just export data as file and use Code interpreter if ever need to get questions answered about data
-  * biomarkers that seem to be an issue that can be fixed AND that worry me
+* NOTES
+	* will keep data in my DB and just export data as file and use Code interpreter if ever need to get questions answered about data
+* biomarkers that seem to be an issue that can be fixed AND that worry me
     * Lipase high
     * Amylase high
     * Oxalates extremely high
@@ -11,23 +11,21 @@
     * low white blood cell count
     * Vitamin D a bit low
     * Toxins im peeing out that i shouldnt be: [[my toxins]]
-    * POSITIVE for hydrogen producing bacteria (as measured by triosmart breath test). Expected <25.77ppm, but had 66.50 ^RBndUMM_X
+    * POSITIVE for hydrogen producing bacteria (as measured by triosmart breath test). Expected <25.77ppm, but had 66.50
     * NASAL CULTURE: staph aureus coag pos-large amount
-
     * Related to CIRS
-      * Failed VCS test twice
-        * suggest ongoing exposure
-      * C4A elevated at 4521
-        * suggest ongoing exposure
-      * MMP9 elevated at 665
-        * suggest ongoing exposure
-        * Karen Johnson said this is bad, but google says otherwise?
-      * VEGF <31
-        * Karen Johnson said this is bad, but google says otherwise?
-      * MSH low at 16.6
-        * Karen Johnson said this is bad, but google says otherwise?
-  * biomarkers that have been out of range at some point, but not necessarily bad now (they may be tho)
-
+        * Failed VCS test twice
+            * suggest ongoing exposure
+        * C4A elevated at 4521
+            * suggest ongoing exposure
+        * MMP9 elevated at 665
+            * suggest ongoing exposure
+            * Karen Johnson said this is bad, but google says otherwise?
+        * VEGF <31
+            * Karen Johnson said this is bad, but google says otherwise?
+        * MSH low at 16.6
+            * Karen Johnson said this is bad, but google says otherwise?
+* biomarkers that have been out of range at some point, but not necessarily bad now (they may be tho)
     * Arabinose
       * 2-14-2023, i collected urine for a organic acids test - nutritional and metabolic profile
         * high
@@ -429,9 +427,9 @@
         * Value: 665 ng/mL
         * Range: 0-900 
         * According to Karen Johnson this is HIGH, but im not so sure
-  * biomarkers that cant be changed - determined by genetics
+* biomarkers that cant be changed - determined by genetics
     * HLA: 4-3-53 - multi-susceptible - can develop CIRS. 7-2-53 - mold susceptible
-  * related
+* related
     * [[all biomarkers ive tested]]
     * [[questions about biomarkers]]
     * [[Health brainstorming]]
