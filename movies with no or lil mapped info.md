@@ -21,6 +21,7 @@
         * Hubie Halloween ^Xpg4J2pes
           * tracking my rating
             * [[2024-10-12]] 10/10 funny, romance, life lesson shiz, kindness, bravery, cruelty, Adam Sandler
+        * The Mask
       * [[romance]]
         * Why Him
         * Jexi

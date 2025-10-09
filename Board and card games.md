@@ -6,6 +6,9 @@
     * Flip 7
     * it's giving
     * Trivial Pursuit
+    * Elkfest
+    * 25 Words or Less
+    * Slip it in
   * Azul
 
     * Game ends when round ends and someone has 1 full horizontal row
