@@ -1,13 +1,6 @@
 
 - Script
-    - referral to Dr K of infectious disease bc chronic swollen lymph nodes
-    - i want to go see rheumatologist to evaluate Sjogren's Syndrome, but struggling to find one in network. Really wanted one that is knowledgeable in SS
     - 
-    - dxed with CIRS by two doctors. One used shoemaker protocol another used their own. About 2016 when my symptoms started i lived in moldy leaky room
-    - RTL shows mycotoxins im peeing out
-    - OAT shows my insaneeeeely high oxalic acid
-    - antifungal path bc recommended by old doctor if her supplements didn't work. Itraconazole, sporanox.
-    - following Dr Andrew Campbell, i want to do Sporanox 100mg twice per day for around 6 months
 - notes from appointment
     - 
 - old appointment notes

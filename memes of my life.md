@@ -1,34 +1,50 @@
 * TODO: maybe tie each of these to an ai chat
 * resolvable memes
     * CATEGORY: short-medium-term resolvable memes
-	    * FLIGHT TO FRANCE: how to get it cheapest, but easiest, and also safest
-	        * brainstorming
-	            * other things to consider when getting DEPARTING flight:
-	            * 1) what time do i get to BOD? after getting there i need time to take train to Bergerac. Can i buy that train ticket once i get there? or does need to be ahead of time?
-	            * other things to consider when getting RETURNING flight:
-	            * 1) does my flight out of BOD allow me time to take train from Bergerac to BOD? research: you would take train from Bergerac to Bordeaux Saint-Jean station (1H30M) and then need to take 30Direct Airport Shuttle from that station to BOD (30M)
-	            * 2) am i getting back to Wilmington at time that allows someone to pick me up...so not midnight (this assumes i get back to ILM) 
-	    * POSTPONED: apply to Japanese Language School
-	        * schools im looking at now
-	            * Tokyo Central Japanese Lang School
-	            * Shibuya Gaigo Gakuin
+	    * research professors and their research at Tokyo unis - make sure they have research student program tho. Apparently dont contact them
+		    * how to find
+			    * imo may be good to start by just finding the research student programs
+			    * find degree programs in tokyo taught in english
+			    * make list of unis that offer that degree program
+			    * look at departments website for list of professors and their research specialization. Proceed based on their ongoing research. Make list of these professors and their research
+			    *  If you have more than 3-4 professors/universities on your list, contact the department (_not the professor_) and ask two things: “Based on my previous academic background, do I qualify for admission to this degree program at your university? I am interested in potentially working with X professor, could you please check and confirm whether or not they are accepting new students in their lab to supervise for the 2027-28 academic year?” You can let them know that it is against MEXT’s guidance to applicants for you to contact the professor directly at this time.
+			* list of professors i like
+				* Keio University
+					* notes
+					    * i emailed and they do accept research students through the Embassy Recommendation program of MEXT
+					* Master's Program in Media Design at Keio University Graduate School of Media Design (KMD)
+						* Junichi Yamaoka
+						* Kai Kunze
+						* Kazunori Sugiura
+				* Chiba Tech
+				* Tama Art Uni
+					* Master's Program in Interaction Design at Tama Art University (IDD Graduate School)
+				* 
     * CATEGORY: longterm resolvable memes
         * CATEGORY: project-related
 	        * the QUEST list idea
-	        * do what feels alive 4 u events
-	        * YouOS and the vision game/demo
 	        * "what do you explicitly want to share with others to increase chances of alignment and connection" - need-help, strong desires, weak desire/just-wanna-share
-	        * making cyberspace feel more like a real place. This is a big idea behind YouOS tbh
 	    * CATEGORY: life-related
-	        * get moved to Japan permanently. Make it HOME
-	        * get my health issues figured out. So convert from mystery health issues to simply chronic health issues OR resolved if even possible
-	        * 
-    * 
+	        * become research student through MEXT scholarship (and still do it even if dont get scholarship OR go 2nd year with language school and try again next time)
+		        * Application period for 2027 is April-May 2026
+		        * if applying for research spot that requires Japanese, there is a mid-June 2026 exam period - with online options. Dont need if research spot is totally in English.
+		        * So according to lady, i dont need to be in America to apply, good.
+		        * Researching and finding a professor/advisor looks really good, but not necessarily needed
 * non-resolvable memes (altho can generate resolvable memes)
     * WHAT is PRiORiTY?
-        * resolved on: rn b4 France priority is: 1) health shit 2) learning some French 3) playing with tech and other stuff im curious about and sharing sometimes
+        * create
+    * CURRENT PROJECT IDEAS
+        * for my irl coworking-like meetups, app where you join room (maybe like dsicord server or like kahoot) and can share what's on your mind with people you are with. do what feels alive 4 u events
+        * new way to traverse any device using symbolic system - maybe graphical shell? Maybe game? YouOS
+        * nice one spot to build/decorate your profile for online and show off what you want rather than jsut like one bio
+        * challenges idea where i create challenges and have simple leaderboard. i decide if success for all. shmoji points
+        * some game with River
     * WHAT RESONATES THE MOST THAT I WANT TO SHARE? BEAUTIFUL STUFF, EVOKED FEELS, VIBES, ETC. Maybe what is most alive for me. In my heart.
         * NOTE: imagine what i would randomly bring up to Tyler if i joined party for first time in a while...like fumetsunoanatahe or Japanese konbinis or style in Japan
+* vague if resolvable lol
+	* CATEGORY: life-related
+		* get moved to Japan permanently. Make it HOME
+		* get my health issues figured out. So convert from mystery health issues to simply chronic health issues OR resolved if even possible
 * solved/completed/done memes
     * WHYSPIA INCORPORATION: what kind of company, where to incorporate, and how to do it for whyspia? and does it even need to incorporate? what is pros and cons?
       * submemes

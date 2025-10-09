@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8463fa92f314f9a8",
+        "id": "a4c4e0d0df300a7f",
         "type": "tabs",
         "children": [
           {
-            "id": "2157495b1b25b468",
+            "id": "9f59ffe7b5e79049",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Toxin Binders.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Toxin Binders"
-            }
-          },
-          {
-            "id": "d31702f103be8ec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my toxins.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "my toxins"
+              "title": "New tab"
             }
           }
         ]
@@ -67,12 +49,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "karen johnso",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -89,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,34 +177,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2157495b1b25b468",
+  "active": "9f59ffe7b5e79049",
   "lastOpenFiles": [
-    "tracking hints my issue is fungal, what ive tried for the fungal path.md",
-    "Candida.md",
-    "Health Experimenting.md",
-    "tracking swabs, cultures.md",
-    "biomarkers that may be issue.md",
-    "my toxins.md",
-    "Diagnosis.md",
-    "2025-09-04.md",
-    "tracking nightmares.md",
-    "2025-09-01.md",
-    "braces.md",
-    "TODO soon-whatiskespingmefromfinishing.md",
+    "tracking general health next steps and decisions.md",
     "memes of my life.md",
-    "tracking reducing pain, methods.md",
-    "2025-08-30.md",
-    "Log of health notes.md",
-    "2025-08-24.md",
-    "2022-08-29.md",
-    "CT scans ive done.md",
-    "TMJ.md",
-    "my dental history.md",
-    "My desires.md",
-    "2025-08-22.md",
-    "doctor types ive been to, docs ive been to.md",
-    "2023-04-24.md",
-    "2022-12-01.md",
+    "movies with no or lil mapped info.md",
+    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/movies with no or lil mapped info.md",
+    "script-for-next-doc.md",
+    "Health Experimenting.md",
+    "my past work experience, creations, things ive done, accomplished, achieved.md",
+    "Sunlight.md",
+    "transistor.md",
+    "Untitled.md",
+    "apartment search.md",
+    "magnesium.md",
+    "tracking things.md",
+    "simulacrum.md",
+    "symptom bloating.md",
+    "2023-06-12.md",
+    "anxiety journal.md",
+    "ifs.md",
+    "questions about simulations.md",
+    "LifeItselfWhitePaper.md",
+    "modernism, postmodernism, metamodernism.md",
+    "forms submitted for emote, whyspia related stuff, app.md",
+    "water filter.md",
+    "water.md",
+    "virtual machine, vm.md",
+    "2025-09-15.md",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
     "Attachments/imgs/app/ShmojiMindMapPublic/pVo-imw7RJ.png",

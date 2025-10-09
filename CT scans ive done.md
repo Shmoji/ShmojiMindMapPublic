@@ -6,4 +6,6 @@
         - can find on UNC myChart or here: https://vnamobileexternal.wakemed.org:8443/viewer
     - April 5th 2023: CT abdomen/pelvis
         - can find on UNC myChart or here: https://vnamobileexternal.wakemed.org:8443/viewer
+    - September 10th 2025: CT soft tissue neck with iodine contrast
+        - can find in health tab of email or just on laptop
     - 
