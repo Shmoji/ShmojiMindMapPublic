@@ -1,9 +1,100 @@
-24/7 just gotta feel the outward falling feeling AND can go to each tension/observer and feel prior feeling in spacious open way, going from dense to spherical open, but stay on feeling and dont get mind/attention lost on this process
+Find boundaries. From there, outward fall for good and bad, BUT starting from no-thought
+
+Memo ch11-1 vocab and booco. Do today's bunpo HW. Memo as many kanji as you can
+
+
+50 total class days. 200 total classes. 80% or higher. 80% of 200 is 160 classes. You can skip 40 classes/10 days. ive skipped 4 classes/1 day already.
+
+
+Think on buying good ai hardware laptop. Fuccit maybe iz worth it. Maybe wait until caught up with class to see if i even have time to spend on nonclass stuff
+
+- イベント
+	- 
+
+
+
+- posts
+	- 
+
+- homework
+	- bunpou notto
+	- zutsu vs the other eachs?
+	- kau verb for keeping pets, but other meanings?
+	- shiawase..how diff from ureshi?
+	- what is diff in hanashimasu and iimasu
+	- ichinenmae - a year ago? Why is this how you say it?
+
+- TODO TODAY wikmff
+	- get Japanese phone number from grok pinned msg
+	- Try to get poH back in VM with research. Find past question to kleros in discord or telegram
+	- i need quest board so i can then get to physicsssss
+	- whyspia
+		- new location button and flow. Refer to old flow from WPF (is on GitHub?), can prob even use the code to speed up by helping ai
+		- this is done, just need to do same for new location quest: what happens if they create quest before accepting that quest? i think it should just be completed instantly then. Same for creating locations (need to add button for that)
+		- create your first location quest unlocks after turning in create ur first quest
+		- Godot game. First ui is option to choose life or death on black screen. (ppl will choose game or system b4hand, i wanna focus on game now). With game, they will think it is literal game. After choosing life, you appear on tiny island in space. Collect item that is map. Now you can teleport to quest board location. There you collect quest board global. You see you've already completed collect map and collect quest board global. Next is...(Maybe creating a new loc? Maybe something more fun?)
+
+
+Chainsaw man recap and then movie?
+
+Undervolt
+
+Explicitly shared goals
+
+
+External: yuh this be my game (imagine shmoji repo cursor web dev progress, except DE)
+
+
+
+Write about edge/boundary globes pain strat
+
+Gobto sakura tei and see if any free stickers forbmy umbrella
+
+
+- add to anki list
+	- twilight
+	- lapis
+	- feet in a meter
+	- tunic
+	- sugu? Diff than sugimasu i learned?
+	- しめる bc there's multiple
+	- kakeru and it's a million definitions. Book used it for phone call
+	- make note for all diff kashi. To lend, sweets, weird/??, lyrics??, Fahrenheit
+
+
+Make a play list. Give list to LLM with prompt: this is my play list. A list of things to play, each one a journey. Pick one for me. Note: under each item, i have documented last time playing it. Take into account that i prioritize items i have played the least or not at all to play now. Some of these items are labeled repetitive, that means they're something i want to play repetitively, like you do with a hobby. For these, do not factor in how many times they've been played or when the last time was. ----Maybe I'll have separate list for retired items ive played the heck out of and dont wanna see again for a while.
+
+
+
+Do research on how to not kill my butt on plane. Tried pillow. Tried various different positions.
+
+Memo other ten that is spot points etc
+
+
+Memo diff ees. ii good, ii say, iru, ie house, maybe aimasu, more?
+
+
+Maybe research functional med doc in Tokyo
+
+
+Memo conj for past and te form with ichidan vs godan comparisons. Maybe do same for potential conj.
+
+
+
+Memo auxverb in grok chat. Try to keep as memey as can. Do i memo tense, aspect, modality, etc first and separate or together?
+
+
+
+
+Find that ai web3 app and ask for my wallets how much im up or down total on ocean
+
+
+
+Rememo jap counters by finding old notes. Also rememo ue/ageru/agaru/nobori/noboru
+
 
 
 Explicitly want to only be able to navigate between locations. One window = one location, which has whatever connected info. Is this an issue for default desktop location? Bc couldn't you navigate non-location way. Maybe solution: navigate locations using diff hotkey than apps. 
-
-Get wireless earphones. Maybe search in boxes at Dad's 
 
 
 Marxism memo
@@ -16,39 +107,60 @@ TODAY:  -blog post on difference in aesthetics and preference. aesthetics is alm
 
 TOMORROW: -
 
-Cup at James
-
 
 - packing list
     - clothing
         - [x] 4 shirts
         - [x] 2 pants, one formalish. Maybe 3 pants if fits
         - [x] one flannel
-        - [ ] one peace hoodie
+        - [x] one peace hoodie
         - [x] 7 underwear
         - [x] 7 sockpairs
-    - [ ] laptop with its charger, mouse
-    - [ ] mousepad 
-    - [ ] headphones with mic
-    - [ ] webcam
-    - [ ] water bottle
-    - [ ] wallet and passport duh
-    - [ ] switch
-    - [ ] shaver and toothstuff
-    - [ ] ipad
-    - [ ] lil MagChloride scooper
-    - [ ] a hwallet? Which
+    - [x] laptop with its charger, mouse
+    - [x] mousepad 
+    - [x] headphones with mic
+    - [x] book light
+    - [x] webcam
+    - [x] wallet and passport duh
+    - [x] switch
+    - [x] shaver and toothstuff. Also in supps pocket
+    - [x] ipad
+    - [x] lil MagChloride scooper
+    - [x] lil wooden stirer
+    - [x] a hwallet? Which
     - supps
-        - [ ] MagChloride
-        - [ ] MagGlycinate
-        - [ ] multivitamin
+        - [x] MagChloride
+        - [x] MagGlycinate
+        - [x] multivitamin
     - if extra room
-        - [ ] orange blanket
-        - [ ] 2nd laptop monitor (i wanted this in Tokyo)
-        - [ ] laptop table
-        - [ ] mug
-        - [ ] game controller
+        - [x] orange blanket
+        - [x] 2nd laptop monitor (i wanted this in Tokyo)
+        - [x] mug
+        - [x] game controller
+        - [x] towel?
+        - [x] bed sheets?
+        - [ ] umbrella
 
+
+Stuff i would ship if i could:
+- xbox one (EASY)
+- supplement at Dad's (EASY, if he can find it)
+- desk stand (maybe easy? But kinda wide/lengthy)
+- shoes (EASY)
+- Prose shampoo and conditioner (easy)
+- chocolates
+- new toothpaste that came in mail (EASY)
+- my husband (maybe not easy...bc wide/lengthy)
+- Quest 3 (maybe not easy bc weight)
+- coffee maker of Nana's (prob hard bc weight)
+- maybe my two monitors?
+- Maybe my guitar (hard, heavy and lengthy)
+- maybe rest of my clothes?
+- my yoga mat? Unless cheap to replace
+
+Stuff I'd ship if rich lol
+- my standing desk
+- my big blue blanket
 
 - RETIRED from ROAM
 	- trying to make prompt so LLM can guide me to best task quickly using these notes

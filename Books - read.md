@@ -2,7 +2,7 @@
     * Stephen Wolfram blog articles
         * series on 2nd law of thermodynamics
         * the one on how ChatGPT really works
-  * Books to read
+  * [[Books to read]]
     * CATEGORY: recommendations
         * boris: Permutation City
         * River
@@ -20,7 +20,7 @@
             * recommended by Steven in regards to Symbol Fun
     * CATEGORY: may help me in some way by teaching me sumthin
         * Unlocking the Emotional Brain: Eliminating Symptoms at Their Roots Using Memory Reconsolidation
-  * Books i have read
+  * [[Books i have read]]
     * Man's Search For Meaning
     * The Kybalion
     * My True Type

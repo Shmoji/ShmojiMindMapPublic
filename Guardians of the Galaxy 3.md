@@ -1,1 +1,1 @@
-  * [[search map]]: #[[movies, movie]] #action [[funny, comedy, humor]] #marvel [[movies to watch]]
+  * [[search map]]: #[[movies, movie]] #action [[funny, comedy, humor]] #marvel [[movies ive watched]]

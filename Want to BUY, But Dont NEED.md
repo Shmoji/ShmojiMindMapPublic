@@ -1,5 +1,4 @@
   * CATEGORY: actually need
-    * rolling airplane carryon bag
     * lil travel keyboard that is still good for gaming
     * some travel thing to make laptop be at  eye-height while keyboard and mouse can stay at 90 degree good posture
     * long quest-compatible USB-usbc cable like used to have
