@@ -1,3 +1,10 @@
+* tracking thoughts
+	* [[2025-10-26]]
+		* mauler way too slow. Not gonna use anymore
+		* today had insight that faster guns just win IF you hit shots
+		* 
+		* have to pay Jan rent by Dec 25th. Can pay early if needed. Can pay with wise
+		* 
 * guns i seem to like and not like (NOTE: very likely literal code for weapons can change)
     * starwars guns
         * dont like

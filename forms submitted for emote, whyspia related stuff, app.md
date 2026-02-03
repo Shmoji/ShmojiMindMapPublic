@@ -309,5 +309,25 @@
 		    - I want to help other people do what feels alive for them and I feel this may be a part of that journey.
 		    - I have a friend that lives in France that I'd maybe get to see haha
 		    - I'm a connector. But all my past experience is in software. Trying to figure out how to branch away from tech and into a career where I connect people and help regenerative communities flourish.
-	- test
-	- 700-900 per month euro for food and lodging; and travel
+	- [[2025-10-21]] Merge Grant Application
+		- One-liner for the project: A new way to navigate cyberspace
+		- Budget breakdown:
+			- 1 year of Cursor Pro Plan: $192
+			- 1 year of Linode for hosting backend software: $60
+			- 1 year of Meetup app organizer subscription: $175
+			- Total: $427
+			- PS: I can see from friends online that using agents is becoming a crucial part of development...but I have not learned that yet. I would guess that's another added expense, but I'm not quite sure yet.
+		- share what ur working on
+			- I am shmoji. I'm just a creator with a professional background in coding, innovation, and emerging technologies. Since about 2016 I have worked on various projects in my free time. They eventually evolved into social tech projects for connecting people because that's what I care about. Over time, I realized I had no intention for these projects to be for-profit, so I simply build for myself, my friends, my family, and my community. Even more core than that, the strongest reason I build these complex projects is because I feel something calls me to do it. Simple as that.
+			- Which leads me to my current project. Tangibly, I'm building a Windows desktop environment. In browsers, you can traverse the web using URLs. With the system I'm building, you traverse all of cyberspace using user-owned symbols/locations. It's like taking Obsidian or any note-taking app and integrating it by default into your computer at a low level. When you create a note in a note-taking app, that note has a title, which is how you find it later. You can do this same thing in the system I am making. But you can also tie an entire app to a symbol. Then, you can choose if that symbol/location tied to you stays private or make it public.
+			- I love to imagine a future where I can browse the mindmaps of all my friends and it becomes even more exciting when it's more than just text notes - you can see 3D worlds, apps, 2D games, and more. I sense this would unlock creativity and provide a home for creativity in cyberspace - instead of an endless feed.
+			- The symbolic navigation system is core to the project, but I also want to integrate a few sub-projects that are also evolved from past projects. Another key: a place where people can share what is on their mind. For example, I share the 5 specific topics on my mind right now, increasing the chances for connection on these topics. I made an app like this for Vibecamp 2025 and some connections formed during the event; was pretty cool.
+			- I will say confidently that this is more like a weird art project, not some for-profit thing. So, consider with that in mind. But I move to Japan in the next few months, after going for two months early this year. While I was there previously, I began running coworking-like events titled "do what feels alive for you." Once I move there I fully intend to continue running these events and take this project with me as an optional community technology. I think it could be something that:
+			- unlocks and gives creativity a home
+			- creates an infrastructure for "place" in cyberspace
+			- increases chances of connection between people
+		- current financial situation
+			- 1) Currently been unemployed since April 2024 after leaving Fidelity to go all in on my project at that time. Using the remaining savings to start Japanese language school and get moved over there by start of 2026. My big challenges is my student loans and medical bills. I spent over $20,000 in medical bills in 2024. I think I have got my chronic health crap managed now, but sometimes it's unpredictable...and definitely taking a risk by chasing my dream to get moved to Japan.
+			- Mainly just that I'm about to move to Japan and start Japanese language school for 1-2 years while having most likely no income.
+			- I would just keep working on it in freetime as I have my whole life with projects. Again, it's more like art for me. I'm just chasing my muse.
+	- 

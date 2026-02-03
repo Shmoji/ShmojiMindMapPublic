@@ -1,6 +1,7 @@
 * TODO: maybe tie each of these to an ai chat
 * resolvable memes
     * CATEGORY: short-medium-term resolvable memes
+	    * 
 	    * research professors and their research at Tokyo unis - make sure they have research student program tho. Apparently dont contact them
 		    * how to find
 			    * imo may be good to start by just finding the research student programs
@@ -14,8 +15,13 @@
 					    * i emailed and they do accept research students through the Embassy Recommendation program of MEXT
 					* Master's Program in Media Design at Keio University Graduate School of Media Design (KMD)
 						* Junichi Yamaoka
+							* doesnt really resonate with project. basically focused on CRAFTS with a tech focus - kinda like AC.
 						* Kai Kunze
+							* looked at publications and doesnt resonate a whole lot. He's doing cool stuff still tho.
 						* Kazunori Sugiura
+						    * this guy is hilarious lol. i cant find his publications tho. his summaries kinda sound like they match my project tho. 
+						    * Maybe in Kanagawa which is kinda far from shinjuku
+						    * intuition says he resonates most actually despite no info lol
 				* Chiba Tech
 				* Tama Art Uni
 					* Master's Program in Interaction Design at Tama Art University (IDD Graduate School)
@@ -32,13 +38,30 @@
 		        * Researching and finding a professor/advisor looks really good, but not necessarily needed
 * non-resolvable memes (altho can generate resolvable memes)
     * WHAT is PRiORiTY?
-        * create
+        * 
     * CURRENT PROJECT IDEAS
         * for my irl coworking-like meetups, app where you join room (maybe like dsicord server or like kahoot) and can share what's on your mind with people you are with. do what feels alive 4 u events
         * new way to traverse any device using symbolic system - maybe graphical shell? Maybe game? YouOS
         * nice one spot to build/decorate your profile for online and show off what you want rather than jsut like one bio
         * challenges idea where i create challenges and have simple leaderboard. i decide if success for all. shmoji points
         * some game with River
+    * MEMES of my past
+	    * mystery illness
+	    * chronic pain
+	    * video games
+	    * Fortnite
+	    * Halo
+	    * Pokemon
+	    * WoW
+	    * anime
+	    * skateboarding
+	    * blogging
+	    * vlogging
+	    * writing fictional stories
+	    * coding
+	    * making music
+	    * listening to music
+	    * concerts
     * WHAT RESONATES THE MOST THAT I WANT TO SHARE? BEAUTIFUL STUFF, EVOKED FEELS, VIBES, ETC. Maybe what is most alive for me. In my heart.
         * NOTE: imagine what i would randomly bring up to Tyler if i joined party for first time in a while...like fumetsunoanatahe or Japanese konbinis or style in Japan
 * vague if resolvable lol

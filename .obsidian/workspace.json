@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a4c4e0d0df300a7f",
+        "id": "c32c7166f1a49963",
         "type": "tabs",
         "children": [
           {
-            "id": "9f59ffe7b5e79049",
+            "id": "6bf72c4a73e9c64d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:game",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "common Japanese questions i ask, responses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for common Japanese questions i ask, responses"
             }
           },
           {
@@ -177,34 +178,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f59ffe7b5e79049",
+  "active": "2fb954064c9209e3",
   "lastOpenFiles": [
-    "tracking general health next steps and decisions.md",
+    "Board and card games.md",
+    "learning japanese journal.md",
+    "real Japanese convos ive had.md",
+    "Games I have played.md",
+    "common Japanese questions i ask, responses.md",
+    "japanese grammar things.md",
+    "TODO soon-whatiskespingmefromfinishing.md",
+    "My desires.md",
     "memes of my life.md",
-    "movies with no or lil mapped info.md",
-    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/movies with no or lil mapped info.md",
-    "script-for-next-doc.md",
-    "Health Experimenting.md",
-    "my past work experience, creations, things ive done, accomplished, achieved.md",
-    "Sunlight.md",
-    "transistor.md",
-    "Untitled.md",
-    "apartment search.md",
-    "magnesium.md",
-    "tracking things.md",
-    "simulacrum.md",
-    "symptom bloating.md",
-    "2023-06-12.md",
-    "anxiety journal.md",
-    "ifs.md",
-    "questions about simulations.md",
-    "LifeItselfWhitePaper.md",
-    "modernism, postmodernism, metamodernism.md",
-    "forms submitted for emote, whyspia related stuff, app.md",
-    "water filter.md",
-    "water.md",
-    "virtual machine, vm.md",
-    "2025-09-15.md",
+    "Fortnite journal.md",
+    "2025-12-13.md",
+    "improving memory.md",
+    "memory.md",
+    "spaced repetition.md",
+    "anki.md",
+    "centaur space object.md",
+    "fast memo.md",
+    "memo-testing.md",
+    "memo.md",
+    "2025-03-29.md",
+    "once settled in Japan.md",
+    "Credit Cards, debit cards.md",
+    "tracking sinus pain.md",
+    "blender.md",
+    "when you feel bad - low.md",
+    "wheat, flour, gluten.md",
+    "find Sakura House home.base",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
     "Attachments/imgs/app/ShmojiMindMapPublic/pVo-imw7RJ.png",
@@ -223,7 +225,6 @@
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/Attachments/imgs/app/ShmojiMindMap/VbqziCSlpo.webp",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/Attachments/imgs/app/ShmojiMindMap/r8C4JYz9Jj.webp",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/Attachments/imgs/app/ShmojiMindMapPublic",
-    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/Attachments/imgs/app/ShmojiMindMap",
-    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/Attachments/imgs/app"
+    "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/Attachments/imgs/app/ShmojiMindMap"
   ]
 }

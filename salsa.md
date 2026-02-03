@@ -1,0 +1,3 @@
+- tracking reactions
+	- [[2025-11-03]]
+		- [[Moes]] red chip salsa messed me up (my best guess for what did it). It has garlic and onion in there...thaz my only guess. Doubt tomato would hurt me. 5/10 sinus pain
