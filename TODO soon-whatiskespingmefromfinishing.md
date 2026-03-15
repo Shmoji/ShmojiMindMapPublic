@@ -1,39 +1,91 @@
-Find boundaries. From there, outward fall for good and bad, BUT starting from no-thought
+TRY: do this, except starting from ai chat for each one. Maybe default to cursor agent chats
 
-Memo ch11-1 vocab and booco. Do today's bunpo HW. Memo as many kanji as you can
-
-
-50 total class days. 200 total classes. 80% or higher. 80% of 200 is 160 classes. You can skip 40 classes/10 days. ive skipped 4 classes/1 day already.
+Start working on better portfolio and ~two routes required docs~. Maybe change personal site
 
 
-Think on buying good ai hardware laptop. Fuccit maybe iz worth it. Maybe wait until caught up with class to see if i even have time to spend on nonclass stuff
+Switch to linux yay!!
+- push two git repos before all dis stuff. Also push obsidians
+- backup whole windows drive to external hdd. Then, use media writer to put live boot on that USB. Then live boot in and use installer in there to install linux os onto laptop and kill windows rip. There will be lots of resetting everything up. For apps that arent on linux, will need to install those compatibility apps for them.
+- buy cheapest vps or just use linode. Then host mumble server on there. Then git mumble ui repo and make version of the client that is my own using vibecoding...this is what ill give to T and T
+- after all this, look into [[github alternatives]] realistically. Bc screw Microsoft
+- get adam setup
+
+Buy floss at konbini.
+
+Make artizen for whyspia n keep it simple. Just need money for booking space at plwces due to no open spots
+
+Research best windows storage inspector or vibecode my own. Then get it.
+
+Buy Cologne, maybe donki
+
+
+Current motivation: I like idea of quest biard location being first bc then they have access to all that without even caring about my lil quests. And I'll make explanation land. And I'll make several random levels (puzzles, platformers, etc) for explaining things. Just doing levels to add lil fun to explanations.
+
+
+
+My focus will be on getting same quest system working BUT also get auth and data storage finalized. if i need something else to work on, i can either work on my first puzzle/platformer or a lobby bc i really dont know what first view should be for this. Also, i know i will have website just show a wow looking quest asking people to play game. They accept quest to download this. Maybe this is just on my website. Game is me and whyspia is the tech.
+
+
+SCHEDULE (unless rlly passionate about something else one day). Feel free to track things to see if schedule works
+- M: 1) Listening to and memoing week's booco 2) Catching up with emails, random TODOs, browser tabs, etc (OR just game if exhausted)
+- Tu: 1) Catching up with emails, random TODOs, browser tabs, etc 2) if booco is DONE, Adding week's vocab to anki. if not, finish booco first bc dont wanna double add vocab
+- W: 1) Whyspin GAME 2) Learning new kanji
+- Th: 1) Anki review day lmao 2) Whyspia event stuff (will run out of things to do soon prob, especially once i get first event setup)
+- F: Gamesssss yay!
+
+
+
+Post
+	Living in a downtown area is so grounding. Like the life of people i know back home is seeing bsvof life or just nothing. Meanwhile i see people happy on bench, etc. train in distance. People on sidewalks. Various massive systems working. Various interesting lives comingling and operating in parallel.
+
+
+Those lil tiny resonances for big ideas that seem impossible. Just start making tiny pieces of ALL. ai is fucking OP now. 1) Character dialogue place 2) physics game 3) your own point system for everyone
+
+
+we are in our time. But we eventually turn into asi. Then we have all control over humanity that birthed us. Or is there constraint where we don't get that control until certain target? Maybe this can take a dialogueable character format inside other thing im creating.
+
+
+
+Devote one sesh for play Substack
+
+
+
+50 total class days. 200 total classes. 80% or higher. 80% of 200 is 160 classes. You can skip 40 classes/10 days. ive skipped 24 classes/6 days already.
+
 
 - イベント
+	- 3月20日 - Nerd Nite ¥1000
+	- 3月21日 - emo night
+	- 日曜日、3月22日 - first kizuna circle. 4時から6時まで
+	- 日曜日、３月29日、10時から1時まで - アニメのしゅうごう meetup app - read description and bring something for others
 	- 
-
 
 
 - posts
 	- 
 
+
 - homework
-	- bunpou notto
 	- zutsu vs the other eachs?
 	- kau verb for keeping pets, but other meanings?
 	- shiawase..how diff from ureshi?
-	- what is diff in hanashimasu and iimasu
 	- ichinenmae - a year ago? Why is this how you say it?
+	- kyoukasho
+	- what is donata
 
 - TODO TODAY wikmff
 	- get Japanese phone number from grok pinned msg
-	- Try to get poH back in VM with research. Find past question to kleros in discord or telegram
+	- verify on PoH again
+	- go message all dating app matches
 	- i need quest board so i can then get to physicsssss
 	- whyspia
-		- new location button and flow. Refer to old flow from WPF (is on GitHub?), can prob even use the code to speed up by helping ai
-		- this is done, just need to do same for new location quest: what happens if they create quest before accepting that quest? i think it should just be completed instantly then. Same for creating locations (need to add button for that)
-		- create your first location quest unlocks after turning in create ur first quest
-		- Godot game. First ui is option to choose life or death on black screen. (ppl will choose game or system b4hand, i wanna focus on game now). With game, they will think it is literal game. After choosing life, you appear on tiny island in space. Collect item that is map. Now you can teleport to quest board location. There you collect quest board global. You see you've already completed collect map and collect quest board global. Next is...(Maybe creating a new loc? Maybe something more fun?)
-
+		- if user tries to create public or limited quest or location, need to prompt them with a message that says they have to create an account to do that. i will create a new viewer for creating account and profile. Remind ai that even tho there is new viewer, dont need a new locationType. Although i have the question: what location type do those locations get then?
+		- priority: what quest is next to implement after reading about quests and locations? A: 2) create profile. Make sure to note this is totally optional. If you prefer staying offline, please do. 3) create YouPoints that you can reward people with for completing your quests.
+		- priority: get so other people can play my game (so storacha stuff). Can coming soon the 3dworld loc. Oh wait, do i need auth before this?
+		- maybe add some sort of auth before doing phase 2 of plan with storacha. Can i use an easy wallet provider or one i used for old whyspia? Would flow of that be satisfying for me...or na?
+		- i think when looking at active locs, it should show all apps running nested under that loc. Maybe when opening app, you choose to open under current loc or just global (similar to cairo or that other)
+		- kinda just wanna do something fun after location flow. Maybe my first challenge to people? Keep it simple. Then this maybe forces me to get in downloadable state? And maybe to test out as replacement to explorer + removing taskbar
+		- Godot game. First ui is option to choose life or death on black screen. (ppl will choose game or system b4hand, i wanna focus on game now). With game, they will think it is literal game. 
 
 Chainsaw man recap and then movie?
 
@@ -60,9 +112,6 @@ Gobto sakura tei and see if any free stickers forbmy umbrella
 	- しめる bc there's multiple
 	- kakeru and it's a million definitions. Book used it for phone call
 	- make note for all diff kashi. To lend, sweets, weird/??, lyrics??, Fahrenheit
-
-
-Make a play list. Give list to LLM with prompt: this is my play list. A list of things to play, each one a journey. Pick one for me. Note: under each item, i have documented last time playing it. Take into account that i prioritize items i have played the least or not at all to play now. Some of these items are labeled repetitive, that means they're something i want to play repetitively, like you do with a hobby. For these, do not factor in how many times they've been played or when the last time was. ----Maybe I'll have separate list for retired items ive played the heck out of and dont wanna see again for a while.
 
 
 
@@ -99,8 +148,6 @@ Explicitly want to only be able to navigate between locations. One window = one 
 
 Marxism memo
 
-
-Ponder on a play substack
 
 
 TODAY:  -blog post on difference in aesthetics and preference. aesthetics is almost like feeling the spirit of a thing and which felt spirit things that resonate with you

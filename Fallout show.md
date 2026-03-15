@@ -1,12 +1,14 @@
-  * characters, groups
+* characters, groups
     * Lucy
-    * Lucy's bro
-    * Lucy's dad
+    * Lucy's bro - Norman
+    * Lucy's dad - Hank
     * Lucy's mom - Rose
     * Maximus
+    * Thaddeus
+    * Quintis - one BoS leader
     * the Ghoul, Cooper
     * Flame Mother, Moldaver
-  * story key points
+* story key points
     * Lucy
       * born in Vault 33
       * raiders invade through Vault 32 with Moldaver, kill people, and kidnap Lucy's dad

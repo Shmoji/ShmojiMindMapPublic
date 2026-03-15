@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "TODO soon-whatiskespingmefromfinishing"
             }
+          },
+          {
+            "id": "bdc6eaeda912196b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO soon-whatiskespingmefromfinishing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO soon-whatiskespingmefromfinishing"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +108,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "acausality",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -121,7 +145,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 1
   },
   "right": {
     "id": "80c61d40c819c647",
@@ -133,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Anime I've watched.md",
+            "file": "TODO soon-whatiskespingmefromfinishing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -190,34 +214,35 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "88a1b64cdd99cf22",
+  "active": "bdc6eaeda912196b",
   "lastOpenFiles": [
-    "2026-01-29.md",
+    "Awesome apps for PC, software.md",
+    "software.md",
     "TODO soon-whatiskespingmefromfinishing.md",
-    "popcorn.md",
-    "2026-01-28.md",
+    "github alternatives.md",
+    "2026-02-27.md",
+    "2026-02-25.md",
+    "2025-12-22.md",
+    "gyoumu 業務スーパー.md",
+    "2025-12-23.md",
+    "2026-02-24.md",
+    "tracking coffee.md",
+    "foods or things that did not hurt me.md",
     "2026-01-27.md",
-    "ホップ.md",
-    "2026-01-26.md",
-    "2026-01-24.md",
-    "2026-01-25.md",
-    "decaf.md",
-    "Ocean Protocol experimenting.md",
-    "Anime I've watched.md",
-    "Dragonball series.md",
-    "2026-01-18.md",
-    "Dentist and Teeth.md",
-    "2026-01-16.md",
-    "2026-01-12.md",
-    "2025-12-19.md",
-    "すき家 sukiya.md",
-    "2026-01-11.md",
-    "symptom drainage, mucus, throat, nose, sinus.md",
-    "symptom- drainage, mucus, throat, nose, sinus.md",
-    "2026-01-10.md",
-    "banana.md",
-    "2025-12-10.md",
-    "2025-12-17.md",
+    "2026-02-23.md",
+    "2026-02-21.md",
+    "heart of whyspia.md",
+    "tv - shows ive watched.md",
+    "Fallout show.md",
+    "Tv - shows to watch.md",
+    "whyspia dev design brainstorming.md",
+    "whyspia event hosting.md",
+    "whyspia app - presence.md",
+    "2026-02-19.md",
+    "2026-02-18.md",
+    "2026-02-17.md",
+    "Cool phrases, names, titles.md",
+    "Untitled.canvas",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned/ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned",
     "ShmojiMindMapPublic-2025-05-24-12-15-07_cleaned"
   ]
