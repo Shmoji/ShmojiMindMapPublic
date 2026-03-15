@@ -12,8 +12,16 @@
     * Shady Part of Me
     * [[Demon's Crest]]
     * [[Ghosts n Goblins game]]
-      * i beat the Arcade version and NES version, but not resurrection
+	    * i beat the Arcade version and NES version, but not resurrection
     * [[Marble It Up! series]] - 2 games
+    * Spyro the Dragon
+	    * played on Nintendo Switch on Spyro Reignited Trilogy. Wouldnt much preferred to play with original graphics
+	    * i 120%ed it
+    * Undertale
+	    * i give it a 5/10. Lots of creativity i appreciate, but just not my style. Very cringe. Not very engaging. Very for furries.
+	* Severin
+		* likes and good at puzzles and maybe likes creating
+		* 
   * VR games
     * Psychonauts: Rhombus of Ruin
     * Shores of Loci

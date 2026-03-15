@@ -14,7 +14,6 @@
   * Non-VR games to play
     * Jak and Daxter series
     * The Last of Us 1
-    * Psychonauts 2
     * Spyro
     * Croc
     * Conkers Bad Faraday

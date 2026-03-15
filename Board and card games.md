@@ -12,6 +12,11 @@
     * That's Not a Hat. Basically competitive bluffing and randomness lol
     * What Were You Thinking (clues with team using just initials of words to guess word one teammate cant see)
     * So Clover (word connections)
+    * Decorum
+	    * moving items around room to meet demands of each roommates aesthetic rules
+	    * tbh, it's just funny. designed beforehand with pretty static solution, but funny seeing eveyone not know the strategy. Not exactly meaningful tho lol.
+	* Just One tabletop game
+		* one person has to guess one word, everyone else at table gets to write one word as a hint. if multiple people write same word, you cant use that word.
   * Azul
 
     * Game ends when round ends and someone has 1 full horizontal row
